@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list_applicatio>
+<application>
+		<tache>
+			<id>0</id>
+			<Type_Taille>
+					
+			<taille_par_type Type="1" Taille="300" Cycles="10000"/>			
+			</Type_Taille>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="400" />				
+				<id_succ id="3" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>1</id>
+			<Type_Taille>					
+			<taille_par_type Type="1" Taille="300" Cycles="10000" />			
+			</Type_Taille>
+				<succ>
+				
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<Type_Taille>					
+			<taille_par_type Type="1" Taille="300"  Cycles="10000" />			
+			</Type_Taille>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<Type_Taille>					
+			<taille_par_type Type="1" Taille="300"  Cycles="10000" />			
+			</Type_Taille>
+			<succ>
+			</succ>
+		</tache>
+	</application>
+</list_applicatio>
+	

@@ -1,0 +1,12 @@
+Nombre_Application 10
+Type_de_plateforme MONO
+ALGO_PLACEMENT NN . 
+Strategie_De_Recherche GBHD .
+ALGO_ROUTAGE MORA .
+DEBIT 5
+Temps_Envoi 1000
+Energie_Consommee_Envoi 20
+MODE_CPU 3
+MODE_FPGA 3
+MODE_ASIC 3
+MODE_DSP 3

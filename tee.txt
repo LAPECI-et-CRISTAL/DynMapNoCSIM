@@ -1,0 +1,85 @@
+*****************************************************************
+Resultat de la simulation 
+Algorithme de placement :  NN
+Stratégie de recherche :  GBHD
+Algorithme de routage :  XY
+*****************************************************************
+
+x   1  y  1  fin execution  274000   Debut execution    0  id tache  0 id application  0
+x   0  y  7  fin execution  45000   Debut execution    166610  id tache  1 id application  0
+x   1  y  1  fin execution  161000   Debut execution    274010  id tache  2 id application  0
+x   1  y  2  fin execution  12000   Debut execution    9410  id tache  3 id application  0
+x   6  y  6  fin execution  22500   Debut execution    44110  id tache  4 id application  0
+x   5  y  6  fin execution  13500   Debut execution    4610  id tache  5 id application  0
+x   0  y  5  fin execution  24000   Debut execution    14110  id tache  6 id application  0
+etat du proc true   son type  1  x   0    y   0 File memoire   0
+etat du proc true   son type  1  x   0    y   1 File memoire   0
+etat du proc true   son type  1  x   0    y   2 File memoire   0
+etat du proc true   son type  1  x   0    y   3 File memoire   0
+etat du proc true   son type  1  x   0    y   4 File memoire   0
+etat du proc true   son type  2  x   0    y   5 File memoire   0
+etat du proc true   son type  1  x   0    y   6 File memoire   0
+etat du proc true   son type  1  x   0    y   7 File memoire   0
+etat du proc true   son type  1  x   1    y   0 File memoire   0
+etat du proc true   son type  1  x   1    y   1 File memoire   0
+etat du proc true   son type  2  x   1    y   2 File memoire   0
+etat du proc true   son type  1  x   1    y   3 File memoire   0
+etat du proc true   son type  1  x   1    y   4 File memoire   0
+etat du proc true   son type  1  x   1    y   5 File memoire   0
+etat du proc true   son type  1  x   1    y   6 File memoire   0
+etat du proc true   son type  1  x   1    y   7 File memoire   0
+etat du proc true   son type  1  x   2    y   0 File memoire   0
+etat du proc true   son type  1  x   2    y   1 File memoire   0
+etat du proc true   son type  1  x   2    y   2 File memoire   0
+etat du proc true   son type  1  x   2    y   3 File memoire   0
+etat du proc true   son type  1  x   2    y   4 File memoire   0
+etat du proc true   son type  1  x   2    y   5 File memoire   0
+etat du proc true   son type  1  x   2    y   6 File memoire   0
+etat du proc true   son type  2  x   2    y   7 File memoire   0
+etat du proc true   son type  1  x   3    y   0 File memoire   0
+etat du proc true   son type  1  x   3    y   1 File memoire   0
+etat du proc true   son type  1  x   3    y   2 File memoire   0
+etat du proc true   son type  2  x   3    y   3 File memoire   0
+etat du proc true   son type  1  x   3    y   4 File memoire   300
+etat du proc true   son type  1  x   3    y   5 File memoire   600
+etat du proc true   son type  1  x   3    y   6 File memoire   0
+etat du proc true   son type  1  x   3    y   7 File memoire   0
+etat du proc true   son type  2  x   4    y   0 File memoire   0
+etat du proc true   son type  1  x   4    y   1 File memoire   0
+etat du proc true   son type  1  x   4    y   2 File memoire   0
+etat du proc true   son type  1  x   4    y   3 File memoire   900
+etat du proc true   son type  1  x   4    y   4 File memoire   900
+etat du proc true   son type  2  x   4    y   5 File memoire   0
+etat du proc true   son type  1  x   4    y   6 File memoire   0
+etat du proc true   son type  1  x   4    y   7 File memoire   0
+etat du proc true   son type  1  x   5    y   0 File memoire   0
+etat du proc true   son type  1  x   5    y   1 File memoire   0
+etat du proc true   son type  2  x   5    y   2 File memoire   0
+etat du proc true   son type  1  x   5    y   3 File memoire   900
+etat du proc true   son type  1  x   5    y   4 File memoire   900
+etat du proc true   son type  2  x   5    y   5 File memoire   0
+etat du proc true   son type  1  x   5    y   6 File memoire   0
+etat du proc true   son type  1  x   5    y   7 File memoire   0
+etat du proc true   son type  2  x   6    y   0 File memoire   300
+etat du proc true   son type  1  x   6    y   1 File memoire   0
+etat du proc true   son type  1  x   6    y   2 File memoire   0
+etat du proc true   son type  1  x   6    y   3 File memoire   900
+etat du proc true   son type  1  x   6    y   4 File memoire   900
+etat du proc true   son type  1  x   6    y   5 File memoire   900
+etat du proc true   son type  1  x   6    y   6 File memoire   300
+etat du proc true   son type  1  x   6    y   7 File memoire   0
+etat du proc true   son type  2  x   7    y   0 File memoire   900
+etat du proc true   son type  1  x   7    y   1 File memoire   0
+etat du proc true   son type  1  x   7    y   2 File memoire   0
+etat du proc true   son type  1  x   7    y   3 File memoire   900
+etat du proc true   son type  1  x   7    y   4 File memoire   900
+etat du proc true   son type  1  x   7    y   5 File memoire   900
+etat du proc true   son type  1  x   7    y   6 File memoire   900
+etat du proc true   son type  1  x   7    y   7 File memoire   900
+ TIME:	274010
+ TIME recherche :	217840
+ ENERGIE:	833517
+ ENERGIE  recherche :	0
+
+
+

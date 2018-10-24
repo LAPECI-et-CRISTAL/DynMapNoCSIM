@@ -1,0 +1,155 @@
+*****************************************************************
+Resultat de la simulation 
+Algorithme de placement :  NN
+Stratégie de recherche :  GBHD
+Algorithme de routage :  MORA
+*****************************************************************
+
+x   1  y  1  fin execution  103732   Debut execution    0  id tache  0 id application  0
+x   1  y  0  fin execution  65656   Debut execution    1438  id tache  1 id application  0
+x   2  y  1  fin execution  101304   Debut execution    1448  id tache  2 id application  0
+x   2  y  0  fin execution  45228   Debut execution    22876  id tache  3 id application  0
+x   3  y  1  fin execution  98876   Debut execution    22896  id tache  4 id application  0
+x   3  y  0  fin execution  96448   Debut execution    44334  id tache  5 id application  0
+x   0  y  0  fin execution  92020   Debut execution    66668  id tache  6 id application  0
+x   1  y  4  fin execution  50104   Debut execution    0  id tache  0 id application  1
+x   1  y  3  fin execution  47676   Debut execution    1438  id tache  1 id application  1
+x   2  y  4  fin execution  24305   Debut execution    1448  id tache  2 id application  1
+x   0  y  3  fin execution  45248   Debut execution    22896  id tache  3 id application  1
+x   1  y  6  fin execution  122072   Debut execution    0  id tache  0 id application  2
+x   1  y  5  fin execution  39766   Debut execution    1438  id tache  1 id application  2
+x   0  y  6  fin execution  119644   Debut execution    1458  id tache  2 id application  2
+x   2  y  6  fin execution  36338   Debut execution    22986  id tache  3 id application  2
+x   0  y  5  fin execution  117216   Debut execution    22896  id tache  4 id application  2
+x   0  y  4  fin execution  114788   Debut execution    44334  id tache  5 id application  2
+x   6  y  5  fin execution  106360   Debut execution    74008  id tache  6 id application  2
+x   4  y  1  fin execution  121334   Debut execution    0  id tache  0 id application  3
+x   4  y  0  fin execution  118906   Debut execution    1438  id tache  1 id application  3
+x   5  y  0  fin execution  116478   Debut execution    22876  id tache  2 id application  3
+x   5  y  2  fin execution  47428   Debut execution    23076  id tache  3 id application  3
+x   0  y  0  fin execution  66488   Debut execution    23136  id tache  4 id application  3
+x   5  y  1  fin execution  114050   Debut execution    44334  id tache  5 id application  3
+x   2  y  0  fin execution  69750   Debut execution    45398  id tache  6 id application  3
+x   7  y  2  fin execution  109622   Debut execution    72270  id tache  7 id application  3
+x   6  y  0  fin execution  98890   Debut execution    87732  id tache  8 id application  3
+x   4  y  4  fin execution  146336   Debut execution    0  id tache  0 id application  4
+x   3  y  3  fin execution  24850   Debut execution    1498  id tache  1 id application  4
+x   4  y  3  fin execution  143908   Debut execution    1438  id tache  2 id application  4
+x   4  y  2  fin execution  141480   Debut execution    22876  id tache  3 id application  4
+x   7  y  2  fin execution  48618   Debut execution    23266  id tache  4 id application  4
+x   3  y  2  fin execution  139052   Debut execution    44334  id tache  5 id application  4
+x   3  y  3  fin execution  67816   Debut execution    44464  id tache  6 id application  4
+x   0  y  3  fin execution  119932   Debut execution    81580  id tache  7 id application  4
+x   2  y  6  fin execution  131624   Debut execution    85272  id tache  8 id application  4
+x   4  y  6  fin execution  111936   Debut execution    0  id tache  0 id application  5
+x   4  y  5  fin execution  109508   Debut execution    1438  id tache  1 id application  5
+x   5  y  5  fin execution  90180   Debut execution    22886  id tache  2 id application  5
+x   3  y  5  fin execution  107080   Debut execution    22896  id tache  3 id application  5
+x   4  y  7  fin execution  69180   Debut execution    48828  id tache  4 id application  5
+x   2  y  6  fin execution  84752   Debut execution    61400  id tache  5 id application  5
+x   3  y  3  fin execution  91218   Debut execution    67866  id tache  6 id application  5
+x   4  y  7  fin execution  87872   Debut execution    69520  id tache  7 id application  5
+x   2  y  0  fin execution  99652   Debut execution    70300  id tache  8 id application  5
+x   6  y  1  fin execution  105404   Debut execution    0  id tache  0 id application  6
+x   6  y  0  fin execution  23790   Debut execution    1438  id tache  1 id application  6
+x   7  y  1  fin execution  102976   Debut execution    1448  id tache  2 id application  6
+x   6  y  5  fin execution  73548   Debut execution    23196  id tache  3 id application  6
+x   7  y  0  fin execution  75478   Debut execution    22886  id tache  4 id application  6
+x   7  y  2  fin execution  72050   Debut execution    48698  id tache  5 id application  6
+x   6  y  4  fin execution  126044   Debut execution    0  id tache  0 id application  7
+x   6  y  3  fin execution  123616   Debut execution    1438  id tache  1 id application  7
+x   6  y  2  fin execution  121188   Debut execution    22876  id tache  2 id application  7
+x   0  y  3  fin execution  81160   Debut execution    45808  id tache  3 id application  7
+x   7  y  3  fin execution  117760   Debut execution    44414  id tache  4 id application  7
+x   5  y  2  fin execution  88810   Debut execution    47458  id tache  5 id application  7
+x   7  y  7  fin execution  102542   Debut execution    75190  id tache  6 id application  7
+x   5  y  2  fin execution  113332   Debut execution    88980  id tache  7 id application  7
+x   6  y  6  fin execution  109538   Debut execution    0  id tache  0 id application  8
+x   7  y  6  fin execution  95146   Debut execution    1448  id tache  1 id application  8
+x   5  y  6  fin execution  107110   Debut execution    1458  id tache  2 id application  8
+x   7  y  7  fin execution  45258   Debut execution    22906  id tache  3 id application  8
+x   4  y  7  fin execution  48488   Debut execution    23136  id tache  4 id application  8
+x   0  y  7  fin execution  84718   Debut execution    23366  id tache  5 id application  8
+x   6  y  0  fin execution  87682   Debut execution    24330  id tache  6 id application  8
+x   2  y  6  fin execution  60980   Debut execution    36628  id tache  7 id application  8
+x   7  y  7  fin execution  74870   Debut execution    45518  id tache  8 id application  8
+x   1  y  4  fin execution  142938   Debut execution    50104  id tache  0 id application  9
+x   1  y  3  fin execution  123130   Debut execution    51542  id tache  1 id application  9
+x   2  y  4  fin execution  140510   Debut execution    51552  id tache  2 id application  9
+x   0  y  7  fin execution  111560   Debut execution    85208  id tache  3 id application  9
+x   3  y  3  fin execution  116670   Debut execution    91318  id tache  4 id application  9
+x   0  y  0  fin execution  117702   Debut execution    92350  id tache  5 id application  9
+x   2  y  0  fin execution  130364   Debut execution    100012  id tache  6 id application  9
+x   6  y  5  fin execution  125242   Debut execution    106890  id tache  7 id application  9
+x   3  y  3  fin execution  137082   Debut execution    116730  id tache  8 id application  9
+etat du proc true   son type  2  x   0    y   0 File memoire   2100
+etat du proc true   son type  1  x   0    y   1 File memoire   2100
+etat du proc true   son type  1  x   0    y   2 File memoire   2100
+etat du proc true   son type  2  x   0    y   3 File memoire   2100
+etat du proc true   son type  1  x   0    y   4 File memoire   2100
+etat du proc true   son type  1  x   0    y   5 File memoire   2100
+etat du proc true   son type  1  x   0    y   6 File memoire   2100
+etat du proc true   son type  2  x   0    y   7 File memoire   2100
+etat du proc true   son type  1  x   1    y   0 File memoire   2100
+etat du proc true   son type  1  x   1    y   1 File memoire   2100
+etat du proc true   son type  1  x   1    y   2 File memoire   2100
+etat du proc true   son type  1  x   1    y   3 File memoire   2100
+etat du proc true   son type  1  x   1    y   4 File memoire   2100
+etat du proc true   son type  1  x   1    y   5 File memoire   2100
+etat du proc true   son type  1  x   1    y   6 File memoire   2100
+etat du proc true   son type  1  x   1    y   7 File memoire   2100
+etat du proc true   son type  2  x   2    y   0 File memoire   2100
+etat du proc true   son type  1  x   2    y   1 File memoire   2100
+etat du proc true   son type  1  x   2    y   2 File memoire   2100
+etat du proc true   son type  1  x   2    y   3 File memoire   2100
+etat du proc true   son type  1  x   2    y   4 File memoire   2100
+etat du proc true   son type  1  x   2    y   5 File memoire   2100
+etat du proc true   son type  2  x   2    y   6 File memoire   2100
+etat du proc true   son type  1  x   2    y   7 File memoire   2100
+etat du proc true   son type  1  x   3    y   0 File memoire   2100
+etat du proc true   son type  1  x   3    y   1 File memoire   2100
+etat du proc true   son type  1  x   3    y   2 File memoire   2100
+etat du proc true   son type  2  x   3    y   3 File memoire   2100
+etat du proc true   son type  1  x   3    y   4 File memoire   2100
+etat du proc true   son type  1  x   3    y   5 File memoire   2100
+etat du proc true   son type  1  x   3    y   6 File memoire   2100
+etat du proc true   son type  1  x   3    y   7 File memoire   2100
+etat du proc true   son type  1  x   4    y   0 File memoire   2100
+etat du proc true   son type  1  x   4    y   1 File memoire   2100
+etat du proc true   son type  1  x   4    y   2 File memoire   2100
+etat du proc true   son type  1  x   4    y   3 File memoire   2100
+etat du proc true   son type  1  x   4    y   4 File memoire   2100
+etat du proc true   son type  1  x   4    y   5 File memoire   2100
+etat du proc true   son type  1  x   4    y   6 File memoire   2100
+etat du proc true   son type  2  x   4    y   7 File memoire   2100
+etat du proc true   son type  1  x   5    y   0 File memoire   2100
+etat du proc true   son type  1  x   5    y   1 File memoire   2100
+etat du proc true   son type  2  x   5    y   2 File memoire   2100
+etat du proc true   son type  1  x   5    y   3 File memoire   2100
+etat du proc true   son type  1  x   5    y   4 File memoire   2100
+etat du proc true   son type  1  x   5    y   5 File memoire   2100
+etat du proc true   son type  1  x   5    y   6 File memoire   2100
+etat du proc true   son type  1  x   5    y   7 File memoire   2100
+etat du proc true   son type  2  x   6    y   0 File memoire   2100
+etat du proc true   son type  1  x   6    y   1 File memoire   2100
+etat du proc true   son type  1  x   6    y   2 File memoire   2100
+etat du proc true   son type  1  x   6    y   3 File memoire   2100
+etat du proc true   son type  1  x   6    y   4 File memoire   2100
+etat du proc true   son type  2  x   6    y   5 File memoire   2100
+etat du proc true   son type  1  x   6    y   6 File memoire   2100
+etat du proc true   son type  1  x   6    y   7 File memoire   2100
+etat du proc true   son type  1  x   7    y   0 File memoire   2100
+etat du proc true   son type  1  x   7    y   1 File memoire   2100
+etat du proc true   son type  2  x   7    y   2 File memoire   2100
+etat du proc true   son type  1  x   7    y   3 File memoire   2100
+etat du proc true   son type  1  x   7    y   4 File memoire   2100
+etat du proc true   son type  1  x   7    y   5 File memoire   2100
+etat du proc true   son type  1  x   7    y   6 File memoire   2100
+etat du proc true   son type  2  x   7    y   7 File memoire   2100
+ TIME:	146336
+ TIME recherche :	10770
+ ENERGIE:	679285
+ ENERGIE  recherche :	0
+
+
+

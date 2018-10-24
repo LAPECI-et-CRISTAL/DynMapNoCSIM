@@ -1,0 +1,744 @@
+*****************************************************************
+Resultat de la simulation 
+Algorithme de placement :  FF
+Stratégie de recherche :  GBHD
+Algorithme de routage :  MORA
+*****************************************************************
+
+x   1  y  1  fin execution  369000   Debut execution    0  id tache  0 id application  0
+x   0  y  0  fin execution  367000   Debut execution    3100  id tache  1 id application  0
+x   0  y  1  fin execution  344000   Debut execution    3200  id tache  2 id application  0
+x   3  y  0  fin execution  364000   Debut execution    19600  id tache  3 id application  0
+x   1  y  2  fin execution  64300   Debut execution    37300  id tache  4 id application  0
+x   3  y  7  fin execution  334000   Debut execution    39400  id tache  5 id application  0
+x   6  y  7  fin execution  354000   Debut execution    97200  id tache  6 id application  0
+x   5  y  4  fin execution  329000   Debut execution    266400  id tache  7 id application  0
+x   2  y  0  fin execution  343000   Debut execution    256600  id tache  8 id application  0
+x   0  y  5  fin execution  323000   Debut execution    294000  id tache  9 id application  0
+x   3  y  1  fin execution  341000   Debut execution    295200  id tache  10 id application  0
+x   3  y  3  fin execution  339000   Debut execution    312000  id tache  11 id application  0
+x   1  y  4  fin execution  404000   Debut execution    0  id tache  0 id application  1
+x   0  y  2  fin execution  392000   Debut execution    3300  id tache  1 id application  1
+x   0  y  3  fin execution  123800   Debut execution    3400  id tache  2 id application  1
+x   3  y  5  fin execution  385000   Debut execution    35300  id tache  3 id application  1
+x   2  y  7  fin execution  117800   Debut execution    40800  id tache  4 id application  1
+x   7  y  7  fin execution  379000   Debut execution    119700  id tache  5 id application  1
+x   1  y  0  fin execution  366000   Debut execution    270200  id tache  6 id application  1
+x   4  y  5  fin execution  358000   Debut execution    316000  id tache  7 id application  1
+x   1  y  6  fin execution  341900   Debut execution    0  id tache  0 id application  2
+x   0  y  4  fin execution  338900   Debut execution    3500  id tache  1 id application  2
+x   0  y  6  fin execution  293100   Debut execution    3700  id tache  2 id application  2
+x   3  y  2  fin execution  333900   Debut execution    32200  id tache  3 id application  2
+x   4  y  2  fin execution  285100   Debut execution    40200  id tache  4 id application  2
+x   7  y  1  fin execution  325900   Debut execution    99000  id tache  5 id application  2
+x   7  y  2  fin execution  282100   Debut execution    99100  id tache  6 id application  2
+x   1  y  7  fin execution  307900   Debut execution    199200  id tache  7 id application  2
+x   3  y  4  fin execution  276100   Debut execution    192500  id tache  8 id application  2
+x   6  y  0  fin execution  277100   Debut execution    240100  id tache  9 id application  2
+x   7  y  0  fin execution  288900   Debut execution    240900  id tache  10 id application  2
+x   5  y  2  fin execution  263800   Debut execution    236800  id tache  11 id application  2
+x   5  y  5  fin execution  272100   Debut execution    237100  id tache  12 id application  2
+x   4  y  1  fin execution  381300   Debut execution    0  id tache  0 id application  3
+x   0  y  7  fin execution  371300   Debut execution    3800  id tache  1 id application  3
+x   1  y  0  fin execution  195600   Debut execution    3900  id tache  2 id application  3
+x   5  y  7  fin execution  366300   Debut execution    61600  id tache  3 id application  3
+x   0  y  5  fin execution  79500   Debut execution    31500  id tache  4 id application  3
+x   3  y  4  fin execution  189600   Debut execution    33800  id tache  5 id application  3
+x   6  y  5  fin execution  363300   Debut execution    94000  id tache  6 id application  3
+x   0  y  3  fin execution  184600   Debut execution    124200  id tache  7 id application  3
+x   6  y  2  fin execution  360300   Debut execution    190700  id tache  8 id application  3
+x   2  y  7  fin execution  178600   Debut execution    147600  id tache  9 id application  3
+x   7  y  2  fin execution  359300   Debut execution    288000  id tache  10 id application  3
+x   4  y  0  fin execution  354300   Debut execution    314300  id tache  11 id application  3
+x   4  y  4  fin execution  362400   Debut execution    0  id tache  0 id application  4
+x   1  y  3  fin execution  358400   Debut execution    4200  id tache  1 id application  4
+x   1  y  5  fin execution  282300   Debut execution    4400  id tache  2 id application  4
+x   4  y  3  fin execution  355400   Debut execution    40800  id tache  3 id application  4
+x   3  y  3  fin execution  122200   Debut execution    49200  id tache  4 id application  4
+x   5  y  1  fin execution  274300   Debut execution    50600  id tache  5 id application  4
+x   6  y  3  fin execution  353400   Debut execution    92000  id tache  6 id application  4
+x   1  y  0  fin execution  269300   Debut execution    196500  id tache  7 id application  4
+x   0  y  3  fin execution  347400   Debut execution    185000  id tache  8 id application  4
+x   3  y  3  fin execution  264300   Debut execution    229300  id tache  9 id application  4
+x   3  y  4  fin execution  343400   Debut execution    279000  id tache  10 id application  4
+x   2  y  7  fin execution  339400   Debut execution    309400  id tache  11 id application  4
+x   4  y  6  fin execution  201600   Debut execution    0  id tache  0 id application  5
+x   1  y  7  fin execution  197600   Debut execution    4600  id tache  1 id application  5
+x   2  y  0  fin execution  91000   Debut execution    4700  id tache  2 id application  5
+x   3  y  1  fin execution  189600   Debut execution    23200  id tache  3 id application  5
+x   4  y  0  fin execution  82000   Debut execution    52000  id tache  4 id application  5
+x   6  y  2  fin execution  185600   Debut execution    69300  id tache  5 id application  5
+x   2  y  0  fin execution  179600   Debut execution    93000  id tache  6 id application  5
+x   0  y  5  fin execution  172600   Debut execution    127600  id tache  7 id application  5
+x   6  y  1  fin execution  306600   Debut execution    0  id tache  0 id application  6
+x   2  y  1  fin execution  295200   Debut execution    4800  id tache  1 id application  6
+x   2  y  2  fin execution  301600   Debut execution    4900  id tache  2 id application  6
+x   5  y  0  fin execution  291200   Debut execution    49900  id tache  3 id application  6
+x   3  y  6  fin execution  295600   Debut execution    36000  id tache  4 id application  6
+x   7  y  3  fin execution  285200   Debut execution    100900  id tache  5 id application  6
+x   7  y  4  fin execution  289600   Debut execution    111100  id tache  6 id application  6
+x   5  y  6  fin execution  279200   Debut execution    192900  id tache  7 id application  6
+x   3  y  1  fin execution  282600   Debut execution    192200  id tache  8 id application  6
+x   4  y  0  fin execution  266200   Debut execution    231200  id tache  9 id application  6
+x   4  y  5  fin execution  269700   Debut execution    231700  id tache  10 id application  6
+x   1  y  2  fin execution  244300   Debut execution    224300  id tache  11 id application  6
+x   2  y  7  fin execution  268600   Debut execution    225600  id tache  12 id application  6
+x   6  y  4  fin execution  361800   Debut execution    0  id tache  0 id application  7
+x   2  y  3  fin execution  356800   Debut execution    5000  id tache  1 id application  7
+x   2  y  4  fin execution  193200   Debut execution    5100  id tache  2 id application  7
+x   4  y  7  fin execution  350800   Debut execution    45000  id tache  3 id application  7
+x   5  y  2  fin execution  106400   Debut execution    60400  id tache  4 id application  7
+x   5  y  6  fin execution  188200   Debut execution    60800  id tache  5 id application  7
+x   7  y  5  fin execution  345800   Debut execution    113200  id tache  6 id application  7
+x   7  y  6  fin execution  186200   Debut execution    115100  id tache  7 id application  7
+x   2  y  4  fin execution  339800   Debut execution    195300  id tache  8 id application  7
+x   1  y  2  fin execution  176200   Debut execution    141200  id tache  9 id application  7
+x   1  y  5  fin execution  337800   Debut execution    283700  id tache  10 id application  7
+x   1  y  2  fin execution  334800   Debut execution    306800  id tache  11 id application  7
+x   6  y  6  fin execution  421300   Debut execution    0  id tache  0 id application  8
+x   2  y  5  fin execution  416300   Debut execution    5200  id tache  1 id application  8
+x   2  y  6  fin execution  271900   Debut execution    5300  id tache  2 id application  8
+x   5  y  3  fin execution  411300   Debut execution    54600  id tache  3 id application  8
+x   4  y  5  fin execution  96100   Debut execution    55100  id tache  4 id application  8
+x   5  y  4  fin execution  261900   Debut execution    55800  id tache  5 id application  8
+x   7  y  6  fin execution  406300   Debut execution    192500  id tache  6 id application  8
+x   2  y  0  fin execution  254900   Debut execution    181300  id tache  7 id application  8
+x   5  y  6  fin execution  404300   Debut execution    283900  id tache  8 id application  8
+x   0  y  5  fin execution  241900   Debut execution    209900  id tache  9 id application  8
+x   2  y  1  fin execution  396300   Debut execution    309700  id tache  10 id application  8
+x   0  y  5  fin execution  390300   Debut execution    346300  id tache  11 id application  8
+x   4  y  6  fin execution  420100   Debut execution    201600  id tache  0 id application  9
+x   2  y  6  fin execution  418100   Debut execution    274200  id tache  1 id application  9
+x   5  y  1  fin execution  347800   Debut execution    278500  id tache  2 id application  9
+x   0  y  6  fin execution  416100   Debut execution    299900  id tache  3 id application  9
+x   5  y  2  fin execution  346800   Debut execution    320800  id tache  4 id application  9
+x   1  y  7  fin execution  414100   Debut execution    325500  id tache  5 id application  9
+x   0  y  4  fin execution  410100   Debut execution    340000  id tache  6 id application  9
+x   1  y  2  fin execution  407100   Debut execution    379100  id tache  7 id application  9
+ TIME:	421300
+ TIME recherche :	285900
+ ENERGIE:	8012544
+ ENERGIE  recherche :	211260
+
+
+
+*****************************************************************
+Resultat de la simulation 
+Algorithme de placement :  NN
+Stratégie de recherche :  GBHD
+Algorithme de routage :  MORA
+*****************************************************************
+
+x   1  y  1  fin execution  241400   Debut execution    0  id tache  0 id application  0
+x   1  y  0  fin execution  240400   Debut execution    3100  id tache  1 id application  0
+x   2  y  1  fin execution  117400   Debut execution    3200  id tache  2 id application  0
+x   2  y  0  fin execution  239400   Debut execution    26200  id tache  3 id application  0
+x   1  y  2  fin execution  54700   Debut execution    27700  id tache  4 id application  0
+x   2  y  2  fin execution  116400   Debut execution    26600  id tache  5 id application  0
+x   0  y  0  fin execution  237400   Debut execution    50000  id tache  6 id application  0
+x   1  y  7  fin execution  110400   Debut execution    55200  id tache  7 id application  0
+x   2  y  1  fin execution  234400   Debut execution    118500  id tache  8 id application  0
+x   2  y  7  fin execution  109400   Debut execution    83400  id tache  9 id application  0
+x   3  y  7  fin execution  210400   Debut execution    147900  id tache  10 id application  0
+x   4  y  5  fin execution  207400   Debut execution    179400  id tache  11 id application  0
+x   1  y  4  fin execution  174200   Debut execution    0  id tache  0 id application  1
+x   1  y  3  fin execution  173200   Debut execution    3100  id tache  1 id application  1
+x   2  y  4  fin execution  45800   Debut execution    3200  id tache  2 id application  1
+x   2  y  3  fin execution  171200   Debut execution    26300  id tache  3 id application  1
+x   3  y  3  fin execution  43800   Debut execution    26800  id tache  4 id application  1
+x   2  y  4  fin execution  170200   Debut execution    49700  id tache  5 id application  1
+x   2  y  2  fin execution  168200   Debut execution    116900  id tache  6 id application  1
+x   1  y  2  fin execution  167200   Debut execution    141200  id tache  7 id application  1
+x   1  y  6  fin execution  283500   Debut execution    0  id tache  0 id application  2
+x   1  y  5  fin execution  282500   Debut execution    3100  id tache  1 id application  2
+x   2  y  6  fin execution  174200   Debut execution    3200  id tache  2 id application  2
+x   2  y  5  fin execution  281500   Debut execution    26300  id tache  3 id application  2
+x   3  y  5  fin execution  172200   Debut execution    26800  id tache  4 id application  2
+x   0  y  4  fin execution  278500   Debut execution    52200  id tache  5 id application  2
+x   3  y  4  fin execution  170200   Debut execution    40900  id tache  6 id application  2
+x   5  y  4  fin execution  273500   Debut execution    171800  id tache  7 id application  2
+x   5  y  4  fin execution  168200   Debut execution    114700  id tache  8 id application  2
+x   5  y  5  fin execution  260200   Debut execution    234200  id tache  9 id application  2
+x   6  y  0  fin execution  268500   Debut execution    238500  id tache  10 id application  2
+x   5  y  5  fin execution  165100   Debut execution    139100  id tache  11 id application  2
+x   5  y  2  fin execution  166200   Debut execution    139200  id tache  12 id application  2
+x   4  y  1  fin execution  287700   Debut execution    0  id tache  0 id application  3
+x   5  y  1  fin execution  286700   Debut execution    3200  id tache  1 id application  3
+x   3  y  1  fin execution  150400   Debut execution    3300  id tache  2 id application  3
+x   5  y  0  fin execution  285700   Debut execution    26300  id tache  3 id application  3
+x   4  y  0  fin execution  53800   Debut execution    26800  id tache  4 id application  3
+x   3  y  0  fin execution  149400   Debut execution    26400  id tache  5 id application  3
+x   0  y  1  fin execution  279700   Debut execution    53100  id tache  6 id application  3
+x   3  y  7  fin execution  142400   Debut execution    54000  id tache  7 id application  3
+x   3  y  0  fin execution  275700   Debut execution    151400  id tache  8 id application  3
+x   3  y  3  fin execution  138400   Debut execution    109400  id tache  9 id application  3
+x   3  y  4  fin execution  271700   Debut execution    180600  id tache  10 id application  3
+x   3  y  3  fin execution  270700   Debut execution    244700  id tache  11 id application  3
+x   4  y  4  fin execution  278100   Debut execution    0  id tache  0 id application  4
+x   4  y  3  fin execution  277100   Debut execution    3100  id tache  1 id application  4
+x   5  y  4  fin execution  113700   Debut execution    3200  id tache  2 id application  4
+x   4  y  2  fin execution  276100   Debut execution    26200  id tache  3 id application  4
+x   5  y  5  fin execution  52600   Debut execution    26600  id tache  4 id application  4
+x   5  y  3  fin execution  112700   Debut execution    26300  id tache  5 id application  4
+x   0  y  2  fin execution  272100   Debut execution    53300  id tache  6 id application  4
+x   0  y  3  fin execution  107700   Debut execution    54200  id tache  7 id application  4
+x   3  y  1  fin execution  268100   Debut execution    152700  id tache  8 id application  4
+x   1  y  2  fin execution  105700   Debut execution    88700  id tache  9 id application  4
+x   3  y  5  fin execution  245100   Debut execution    183900  id tache  10 id application  4
+x   4  y  5  fin execution  244100   Debut execution    218100  id tache  11 id application  4
+x   4  y  6  fin execution  222000   Debut execution    0  id tache  0 id application  5
+x   5  y  6  fin execution  221000   Debut execution    3200  id tache  1 id application  5
+x   3  y  6  fin execution  51900   Debut execution    3300  id tache  2 id application  5
+x   5  y  7  fin execution  220000   Debut execution    26600  id tache  3 id application  5
+x   2  y  7  fin execution  49900   Debut execution    27900  id tache  4 id application  5
+x   0  y  7  fin execution  215000   Debut execution    53200  id tache  5 id application  5
+x   4  y  7  fin execution  211000   Debut execution    118700  id tache  6 id application  5
+x   2  y  7  fin execution  208000   Debut execution    174000  id tache  7 id application  5
+x   6  y  1  fin execution  260700   Debut execution    0  id tache  0 id application  6
+x   7  y  1  fin execution  259700   Debut execution    3200  id tache  1 id application  6
+x   6  y  2  fin execution  237900   Debut execution    3400  id tache  2 id application  6
+x   7  y  2  fin execution  258700   Debut execution    26500  id tache  3 id application  6
+x   3  y  2  fin execution  234900   Debut execution    28900  id tache  4 id application  6
+x   5  y  3  fin execution  255700   Debut execution    114600  id tache  5 id application  6
+x   3  y  6  fin execution  214900   Debut execution    58500  id tache  6 id application  6
+x   2  y  4  fin execution  251700   Debut execution    174400  id tache  7 id application  6
+x   7  y  6  fin execution  201900   Debut execution    126500  id tache  8 id application  6
+x   3  y  3  fin execution  234000   Debut execution    198000  id tache  9 id application  6
+x   1  y  2  fin execution  248700   Debut execution    199700  id tache  10 id application  6
+x   4  y  5  fin execution  173800   Debut execution    154800  id tache  11 id application  6
+x   7  y  0  fin execution  195900   Debut execution    155900  id tache  12 id application  6
+x   6  y  4  fin execution  299900   Debut execution    0  id tache  0 id application  7
+x   6  y  3  fin execution  298900   Debut execution    3100  id tache  1 id application  7
+x   7  y  4  fin execution  215100   Debut execution    3200  id tache  2 id application  7
+x   7  y  3  fin execution  297900   Debut execution    26300  id tache  3 id application  7
+x   7  y  0  fin execution  73600   Debut execution    28600  id tache  4 id application  7
+x   7  y  7  fin execution  212100   Debut execution    28500  id tache  5 id application  7
+x   0  y  3  fin execution  290900   Debut execution    112200  id tache  6 id application  7
+x   1  y  7  fin execution  206100   Debut execution    113600  id tache  7 id application  7
+x   2  y  2  fin execution  287900   Debut execution    169900  id tache  8 id application  7
+x   0  y  5  fin execution  203100   Debut execution    175100  id tache  9 id application  7
+x   1  y  7  fin execution  281900   Debut execution    211700  id tache  10 id application  7
+x   2  y  7  fin execution  280900   Debut execution    253900  id tache  11 id application  7
+x   6  y  6  fin execution  270900   Debut execution    0  id tache  0 id application  8
+x   6  y  5  fin execution  269900   Debut execution    3100  id tache  1 id application  8
+x   7  y  6  fin execution  122800   Debut execution    3200  id tache  2 id application  8
+x   7  y  5  fin execution  268900   Debut execution    26300  id tache  3 id application  8
+x   4  y  5  fin execution  68500   Debut execution    28500  id tache  4 id application  8
+x   6  y  7  fin execution  120800   Debut execution    27200  id tache  5 id application  8
+x   0  y  6  fin execution  260900   Debut execution    54200  id tache  6 id application  8
+x   4  y  7  fin execution  116800   Debut execution    42400  id tache  7 id application  8
+x   6  y  7  fin execution  249900   Debut execution    125400  id tache  8 id application  8
+x   4  y  5  fin execution  114800   Debut execution    87800  id tache  9 id application  8
+x   2  y  6  fin execution  244900   Debut execution    189500  id tache  10 id application  8
+x   2  y  7  fin execution  243900   Debut execution    217900  id tache  11 id application  8
+x   1  y  4  fin execution  321900   Debut execution    174200  id tache  0 id application  9
+x   1  y  3  fin execution  320900   Debut execution    177300  id tache  1 id application  9
+x   2  y  3  fin execution  244700   Debut execution    177800  id tache  2 id application  9
+x   0  y  7  fin execution  315900   Debut execution    219900  id tache  3 id application  9
+x   5  y  2  fin execution  240700   Debut execution    219700  id tache  4 id application  9
+x   2  y  6  fin execution  312900   Debut execution    248100  id tache  5 id application  9
+x   3  y  6  fin execution  311900   Debut execution    269300  id tache  6 id application  9
+x   4  y  5  fin execution  309900   Debut execution    292900  id tache  7 id application  9
+ TIME:	321900
+ TIME recherche :	155900
+ ENERGIE:	6047940
+ ENERGIE  recherche :	108780
+
+
+
+*****************************************************************
+Resultat de la simulation 
+Algorithme de placement :  BN
+Stratégie de recherche :  GBHD
+Algorithme de routage :  MORA
+*****************************************************************
+
+x   1  y  1  fin execution  211850   Debut execution    0  id tache  0 id application  0
+x   1  y  0  fin execution  210850   Debut execution    3200  id tache  1 id application  0
+x   2  y  1  fin execution  104350   Debut execution    3200  id tache  2 id application  0
+x   2  y  0  fin execution  209850   Debut execution    26350  id tache  3 id application  0
+x   1  y  2  fin execution  53950   Debut execution    26950  id tache  4 id application  0
+x   2  y  2  fin execution  103350   Debut execution    26400  id tache  5 id application  0
+x   0  y  0  fin execution  207850   Debut execution    49800  id tache  6 id application  0
+x   0  y  2  fin execution  101350   Debut execution    50200  id tache  7 id application  0
+x   2  y  1  fin execution  204850   Debut execution    104900  id tache  8 id application  0
+x   1  y  2  fin execution  100350   Debut execution    74350  id tache  9 id application  0
+x   3  y  1  fin execution  203850   Debut execution    148500  id tache  10 id application  0
+x   4  y  0  fin execution  201850   Debut execution    171850  id tache  11 id application  0
+x   1  y  4  fin execution  159950   Debut execution    0  id tache  0 id application  1
+x   1  y  3  fin execution  158950   Debut execution    3200  id tache  1 id application  1
+x   2  y  4  fin execution  45600   Debut execution    3200  id tache  2 id application  1
+x   2  y  3  fin execution  157950   Debut execution    26400  id tache  3 id application  1
+x   3  y  3  fin execution  43600   Debut execution    26600  id tache  4 id application  1
+x   2  y  4  fin execution  156950   Debut execution    49600  id tache  5 id application  1
+x   2  y  2  fin execution  154950   Debut execution    103750  id tache  6 id application  1
+x   1  y  2  fin execution  153950   Debut execution    127950  id tache  7 id application  1
+x   1  y  6  fin execution  215900   Debut execution    0  id tache  0 id application  2
+x   1  y  5  fin execution  172150   Debut execution    3200  id tache  1 id application  2
+x   2  y  6  fin execution  214900   Debut execution    3200  id tache  2 id application  2
+x   2  y  5  fin execution  171150   Debut execution    26400  id tache  3 id application  2
+x   3  y  5  fin execution  212900   Debut execution    26600  id tache  4 id application  2
+x   3  y  4  fin execution  169150   Debut execution    49800  id tache  5 id application  2
+x   0  y  6  fin execution  208900   Debut execution    51900  id tache  6 id application  2
+x   3  y  7  fin execution  157150   Debut execution    103300  id tache  7 id application  2
+x   7  y  6  fin execution  201900   Debut execution    122800  id tache  8 id application  2
+x   2  y  7  fin execution  155450   Debut execution    129450  id tache  9 id application  2
+x   4  y  5  fin execution  154150   Debut execution    130150  id tache  10 id application  2
+x   7  y  0  fin execution  192600   Debut execution    161600  id tache  11 id application  2
+x   6  y  0  fin execution  193900   Debut execution    161900  id tache  12 id application  2
+x   4  y  1  fin execution  275700   Debut execution    0  id tache  0 id application  3
+x   5  y  1  fin execution  274700   Debut execution    3200  id tache  1 id application  3
+x   3  y  1  fin execution  148300   Debut execution    3200  id tache  2 id application  3
+x   5  y  0  fin execution  273700   Debut execution    26400  id tache  3 id application  3
+x   4  y  0  fin execution  53550   Debut execution    26550  id tache  4 id application  3
+x   3  y  0  fin execution  147300   Debut execution    26400  id tache  5 id application  3
+x   0  y  1  fin execution  267700   Debut execution    51300  id tache  6 id application  3
+x   3  y  6  fin execution  121300   Debut execution    51500  id tache  7 id application  3
+x   3  y  0  fin execution  263700   Debut execution    148450  id tache  8 id application  3
+x   2  y  7  fin execution  119300   Debut execution    90300  id tache  9 id application  3
+x   4  y  7  fin execution  255700   Debut execution    176900  id tache  10 id application  3
+x   3  y  3  fin execution  250700   Debut execution    218700  id tache  11 id application  3
+x   4  y  4  fin execution  246450   Debut execution    0  id tache  0 id application  4
+x   4  y  3  fin execution  245450   Debut execution    3200  id tache  1 id application  4
+x   5  y  4  fin execution  121350   Debut execution    3200  id tache  2 id application  4
+x   4  y  2  fin execution  244450   Debut execution    26400  id tache  3 id application  4
+x   5  y  5  fin execution  52400   Debut execution    26400  id tache  4 id application  4
+x   5  y  3  fin execution  120350   Debut execution    26400  id tache  5 id application  4
+x   0  y  3  fin execution  239450   Debut execution    51850  id tache  6 id application  4
+x   0  y  4  fin execution  114350   Debut execution    52200  id tache  7 id application  4
+x   5  y  3  fin execution  234450   Debut execution    122150  id tache  8 id application  4
+x   0  y  5  fin execution  113350   Debut execution    87350  id tache  9 id application  4
+x   2  y  4  fin execution  230450   Debut execution    159050  id tache  10 id application  4
+x   4  y  5  fin execution  227450   Debut execution    188450  id tache  11 id application  4
+x   4  y  6  fin execution  243000   Debut execution    0  id tache  0 id application  5
+x   5  y  6  fin execution  242000   Debut execution    3200  id tache  1 id application  5
+x   3  y  6  fin execution  47600   Debut execution    3200  id tache  2 id application  5
+x   5  y  7  fin execution  241000   Debut execution    26400  id tache  3 id application  5
+x   4  y  5  fin execution  43600   Debut execution    26600  id tache  4 id application  5
+x   1  y  7  fin execution  237000   Debut execution    50850  id tache  5 id application  5
+x   2  y  2  fin execution  231000   Debut execution    156800  id tache  6 id application  5
+x   1  y  2  fin execution  230000   Debut execution    204000  id tache  7 id application  5
+x   6  y  1  fin execution  221100   Debut execution    0  id tache  0 id application  6
+x   7  y  1  fin execution  196400   Debut execution    3200  id tache  1 id application  6
+x   6  y  2  fin execution  220100   Debut execution    3200  id tache  2 id application  6
+x   7  y  2  fin execution  195400   Debut execution    26350  id tache  3 id application  6
+x   7  y  3  fin execution  218100   Debut execution    26750  id tache  4 id application  6
+x   3  y  2  fin execution  191400   Debut execution    50650  id tache  5 id application  6
+x   0  y  2  fin execution  210100   Debut execution    103800  id tache  6 id application  6
+x   3  y  6  fin execution  187400   Debut execution    123600  id tache  7 id application  6
+x   2  y  3  fin execution  207100   Debut execution    158900  id tache  8 id application  6
+x   4  y  5  fin execution  175000   Debut execution    157000  id tache  9 id application  6
+x   2  y  7  fin execution  185400   Debut execution    157400  id tache  10 id application  6
+x   3  y  3  fin execution  206100   Debut execution    180100  id tache  11 id application  6
+x   1  y  2  fin execution  199300   Debut execution    180300  id tache  12 id application  6
+x   6  y  4  fin execution  263650   Debut execution    0  id tache  0 id application  7
+x   6  y  3  fin execution  262650   Debut execution    3200  id tache  1 id application  7
+x   7  y  4  fin execution  184050   Debut execution    3200  id tache  2 id application  7
+x   7  y  5  fin execution  259650   Debut execution    27750  id tache  3 id application  7
+x   7  y  0  fin execution  73500   Debut execution    27500  id tache  4 id application  7
+x   7  y  7  fin execution  172050   Debut execution    27350  id tache  5 id application  7
+x   0  y  4  fin execution  251650   Debut execution    116800  id tache  6 id application  7
+x   4  y  7  fin execution  169050   Debut execution    117200  id tache  7 id application  7
+x   5  y  4  fin execution  246650   Debut execution    140700  id tache  8 id application  7
+x   5  y  5  fin execution  165050   Debut execution    144050  id tache  9 id application  7
+x   2  y  5  fin execution  242650   Debut execution    175850  id tache  10 id application  7
+x   0  y  5  fin execution  240650   Debut execution    202650  id tache  11 id application  7
+x   6  y  6  fin execution  251800   Debut execution    0  id tache  0 id application  8
+x   6  y  5  fin execution  250800   Debut execution    3200  id tache  1 id application  8
+x   7  y  6  fin execution  120500   Debut execution    3200  id tache  2 id application  8
+x   6  y  7  fin execution  248800   Debut execution    27150  id tache  3 id application  8
+x   2  y  7  fin execution  82200   Debut execution    28200  id tache  4 id application  8
+x   4  y  7  fin execution  116500   Debut execution    27500  id tache  5 id application  8
+x   0  y  7  fin execution  242800   Debut execution    53150  id tache  6 id application  8
+x   3  y  7  fin execution  101500   Debut execution    43650  id tache  7 id application  8
+x   3  y  7  fin execution  238800   Debut execution    157850  id tache  8 id application  8
+x   4  y  5  fin execution  96500   Debut execution    68500  id tache  9 id application  8
+x   3  y  6  fin execution  237800   Debut execution    192000  id tache  10 id application  8
+x   2  y  7  fin execution  232800   Debut execution    215800  id tache  11 id application  8
+x   1  y  4  fin execution  275400   Debut execution    159950  id tache  0 id application  9
+x   1  y  3  fin execution  274400   Debut execution    163150  id tache  1 id application  9
+x   3  y  4  fin execution  237150   Debut execution    169750  id tache  2 id application  9
+x   1  y  5  fin execution  272400   Debut execution    187100  id tache  3 id application  9
+x   5  y  5  fin execution  233150   Debut execution    207150  id tache  4 id application  9
+x   0  y  6  fin execution  270400   Debut execution    211850  id tache  5 id application  9
+x   1  y  6  fin execution  269400   Debut execution    227000  id tache  6 id application  9
+x   0  y  5  fin execution  267400   Debut execution    250400  id tache  7 id application  9
+ TIME:	275700
+ TIME recherche :	82950
+ ENERGIE:	5341129
+ ENERGIE  recherche :	107940
+
+
+
+*****************************************************************
+Resultat de la simulation 
+Algorithme de placement :  FF
+Stratégie de recherche :  GBHD
+Algorithme de routage :  XY
+*****************************************************************
+
+x   1  y  1  fin execution  375200   Debut execution    0  id tache  0 id application  0
+x   0  y  0  fin execution  373200   Debut execution    3100  id tache  1 id application  0
+x   0  y  1  fin execution  243200   Debut execution    3200  id tache  2 id application  0
+x   3  y  0  fin execution  370200   Debut execution    29600  id tache  3 id application  0
+x   0  y  5  fin execution  77800   Debut execution    46800  id tache  4 id application  0
+x   3  y  6  fin execution  235200   Debut execution    49300  id tache  5 id application  0
+x   4  y  7  fin execution  362200   Debut execution    58600  id tache  6 id application  0
+x   7  y  6  fin execution  223200   Debut execution    141600  id tache  7 id application  0
+x   0  y  3  fin execution  348200   Debut execution    89000  id tache  8 id application  0
+x   0  y  5  fin execution  201200   Debut execution    168200  id tache  9 id application  0
+x   7  y  1  fin execution  326200   Debut execution    196400  id tache  10 id application  0
+x   3  y  3  fin execution  320200   Debut execution    269200  id tache  11 id application  0
+x   1  y  4  fin execution  203600   Debut execution    0  id tache  0 id application  1
+x   0  y  2  fin execution  200600   Debut execution    3300  id tache  1 id application  1
+x   0  y  3  fin execution  78500   Debut execution    3400  id tache  2 id application  1
+x   3  y  1  fin execution  196600   Debut execution    30900  id tache  3 id application  1
+x   1  y  2  fin execution  75500   Debut execution    48500  id tache  4 id application  1
+x   5  y  0  fin execution  193600   Debut execution    61000  id tache  5 id application  1
+x   7  y  1  fin execution  190600   Debut execution    114800  id tache  6 id application  1
+x   3  y  3  fin execution  173600   Debut execution    142600  id tache  7 id application  1
+x   1  y  6  fin execution  321300   Debut execution    0  id tache  0 id application  2
+x   0  y  4  fin execution  310500   Debut execution    3500  id tache  1 id application  2
+x   0  y  6  fin execution  320300   Debut execution    3700  id tache  2 id application  2
+x   3  y  2  fin execution  302500   Debut execution    31200  id tache  3 id application  2
+x   3  y  7  fin execution  316300   Debut execution    49900  id tache  4 id application  2
+x   6  y  7  fin execution  271500   Debut execution    111800  id tache  5 id application  2
+x   6  y  5  fin execution  311300   Debut execution    102300  id tache  6 id application  2
+x   3  y  1  fin execution  262500   Debut execution    199200  id tache  7 id application  2
+x   3  y  5  fin execution  308300   Debut execution    191200  id tache  8 id application  2
+x   3  y  3  fin execution  260000   Debut execution    233000  id tache  9 id application  2
+x   4  y  0  fin execution  260500   Debut execution    233500  id tache  10 id application  2
+x   0  y  5  fin execution  246800   Debut execution    217800  id tache  11 id application  2
+x   1  y  2  fin execution  293300   Debut execution    218300  id tache  12 id application  2
+x   4  y  1  fin execution  424800   Debut execution    0  id tache  0 id application  3
+x   0  y  7  fin execution  414800   Debut execution    3800  id tache  1 id application  3
+x   1  y  0  fin execution  223200   Debut execution    3900  id tache  2 id application  3
+x   6  y  3  fin execution  404800   Debut execution    102000  id tache  3 id application  3
+x   2  y  7  fin execution  100300   Debut execution    52300  id tache  4 id application  3
+x   4  y  2  fin execution  216200   Debut execution    53400  id tache  5 id application  3
+x   1  y  4  fin execution  398800   Debut execution    204900  id tache  6 id application  3
+x   2  y  0  fin execution  212200   Debut execution    126100  id tache  7 id application  3
+x   0  y  2  fin execution  393800   Debut execution    287000  id tache  8 id application  3
+x   1  y  2  fin execution  208200   Debut execution    180200  id tache  9 id application  3
+x   0  y  4  fin execution  391800   Debut execution    315500  id tache  10 id application  3
+x   4  y  0  fin execution  383800   Debut execution    342800  id tache  11 id application  3
+x   4  y  4  fin execution  396500   Debut execution    0  id tache  0 id application  4
+x   1  y  3  fin execution  392500   Debut execution    4200  id tache  1 id application  4
+x   1  y  5  fin execution  303600   Debut execution    4400  id tache  2 id application  4
+x   3  y  4  fin execution  388500   Debut execution    33100  id tache  3 id application  4
+x   3  y  3  fin execution  96200   Debut execution    54200  id tache  4 id application  4
+x   4  y  3  fin execution  298600   Debut execution    55000  id tache  5 id application  4
+x   5  y  1  fin execution  383500   Debut execution    64300  id tache  6 id application  4
+x   7  y  5  fin execution  292600   Debut execution    137200  id tache  7 id application  4
+x   5  y  7  fin execution  371500   Debut execution    185000  id tache  8 id application  4
+x   2  y  7  fin execution  284600   Debut execution    200600  id tache  9 id application  4
+x   3  y  1  fin execution  360500   Debut execution    265100  id tache  10 id application  4
+x   2  y  7  fin execution  352500   Debut execution    319500  id tache  11 id application  4
+x   4  y  6  fin execution  196200   Debut execution    0  id tache  0 id application  5
+x   1  y  7  fin execution  192200   Debut execution    4600  id tache  1 id application  5
+x   2  y  0  fin execution  122000   Debut execution    4700  id tache  2 id application  5
+x   3  y  5  fin execution  188200   Debut execution    33600  id tache  3 id application  5
+x   4  y  0  fin execution  105000   Debut execution    59000  id tache  4 id application  5
+x   5  y  3  fin execution  184200   Debut execution    65000  id tache  5 id application  5
+x   5  y  7  fin execution  180200   Debut execution    95800  id tache  6 id application  5
+x   2  y  7  fin execution  177200   Debut execution    139200  id tache  7 id application  5
+x   6  y  1  fin execution  419100   Debut execution    0  id tache  0 id application  6
+x   2  y  1  fin execution  401900   Debut execution    4800  id tache  1 id application  6
+x   2  y  2  fin execution  414100   Debut execution    4900  id tache  2 id application  6
+x   5  y  4  fin execution  394900   Debut execution    73300  id tache  3 id application  6
+x   7  y  4  fin execution  407100   Debut execution    136000  id tache  4 id application  6
+x   1  y  7  fin execution  387900   Debut execution    193800  id tache  5 id application  6
+x   3  y  6  fin execution  401100   Debut execution    238300  id tache  6 id application  6
+x   1  y  0  fin execution  376900   Debut execution    224100  id tache  7 id application  6
+x   7  y  5  fin execution  395100   Debut execution    298800  id tache  8 id application  6
+x   4  y  0  fin execution  331400   Debut execution    279400  id tache  9 id application  6
+x   4  y  5  fin execution  367900   Debut execution    279900  id tache  10 id application  6
+x   3  y  3  fin execution  366600   Debut execution    333600  id tache  11 id application  6
+x   5  y  2  fin execution  390100   Debut execution    335100  id tache  12 id application  6
+x   6  y  4  fin execution  396300   Debut execution    0  id tache  0 id application  7
+x   2  y  3  fin execution  366600   Debut execution    5000  id tache  1 id application  7
+x   2  y  4  fin execution  392300   Debut execution    5100  id tache  2 id application  7
+x   6  y  2  fin execution  360600   Debut execution    101100  id tache  3 id application  7
+x   1  y  2  fin execution  140200   Debut execution    112200  id tache  4 id application  7
+x   7  y  3  fin execution  386300   Debut execution    117100  id tache  5 id application  7
+x   7  y  7  fin execution  354600   Debut execution    145500  id tache  6 id application  7
+x   5  y  0  fin execution  381300   Debut execution    197700  id tache  7 id application  7
+x   7  y  6  fin execution  353600   Debut execution    229500  id tache  8 id application  7
+x   0  y  5  fin execution  350300   Debut execution    261300  id tache  9 id application  7
+x   4  y  2  fin execution  346600   Debut execution    281500  id tache  10 id application  7
+x   1  y  2  fin execution  343600   Debut execution    315600  id tache  11 id application  7
+x   6  y  6  fin execution  425200   Debut execution    0  id tache  0 id application  8
+x   2  y  5  fin execution  420200   Debut execution    5200  id tache  1 id application  8
+x   2  y  6  fin execution  302700   Debut execution    5300  id tache  2 id application  8
+x   5  y  6  fin execution  416200   Debut execution    94900  id tache  3 id application  8
+x   0  y  5  fin execution  145900   Debut execution    110900  id tache  4 id application  8
+x   7  y  2  fin execution  293700   Debut execution    116200  id tache  5 id application  8
+x   5  y  3  fin execution  413200   Debut execution    188600  id tache  6 id application  8
+x   0  y  2  fin execution  286700   Debut execution    200900  id tache  7 id application  8
+x   0  y  1  fin execution  406200   Debut execution    243400  id tache  8 id application  8
+x   4  y  5  fin execution  270700   Debut execution    236700  id tache  9 id application  8
+x   7  y  2  fin execution  398200   Debut execution    299600  id tache  10 id application  8
+x   0  y  5  fin execution  388200   Debut execution    351200  id tache  11 id application  8
+x   4  y  6  fin execution  440300   Debut execution    196200  id tache  0 id application  9
+x   2  y  0  fin execution  432300   Debut execution    213900  id tache  1 id application  9
+x   4  y  2  fin execution  278000   Debut execution    219700  id tache  2 id application  9
+x   6  y  7  fin execution  421300   Debut execution    277100  id tache  3 id application  9
+x   5  y  2  fin execution  277000   Debut execution    251000  id tache  4 id application  9
+x   1  y  5  fin execution  414300   Debut execution    317500  id tache  5 id application  9
+x   0  y  6  fin execution  412300   Debut execution    347200  id tache  6 id application  9
+x   1  y  2  fin execution  407300   Debut execution    372300  id tache  7 id application  9
+ TIME:	440300
+ TIME recherche :	279500
+ ENERGIE:	8016330
+ ENERGIE  recherche :	0
+
+
+
+*****************************************************************
+Resultat de la simulation 
+Algorithme de placement :  NN
+Stratégie de recherche :  GBHD
+Algorithme de routage :  XY
+*****************************************************************
+
+x   1  y  1  fin execution  322600   Debut execution    0  id tache  0 id application  0
+x   1  y  0  fin execution  321600   Debut execution    3100  id tache  1 id application  0
+x   2  y  1  fin execution  118400   Debut execution    3200  id tache  2 id application  0
+x   2  y  0  fin execution  320600   Debut execution    26200  id tache  3 id application  0
+x   1  y  2  fin execution  54700   Debut execution    27700  id tache  4 id application  0
+x   2  y  2  fin execution  117400   Debut execution    26600  id tache  5 id application  0
+x   0  y  0  fin execution  318600   Debut execution    50000  id tache  6 id application  0
+x   1  y  7  fin execution  111400   Debut execution    55200  id tache  7 id application  0
+x   3  y  0  fin execution  315600   Debut execution    181200  id tache  8 id application  0
+x   2  y  7  fin execution  110400   Debut execution    84400  id tache  9 id application  0
+x   4  y  7  fin execution  307600   Debut execution    220200  id tache  10 id application  0
+x   4  y  5  fin execution  305600   Debut execution    272600  id tache  11 id application  0
+x   1  y  4  fin execution  197500   Debut execution    0  id tache  0 id application  1
+x   1  y  3  fin execution  196500   Debut execution    3100  id tache  1 id application  1
+x   2  y  4  fin execution  55800   Debut execution    3200  id tache  2 id application  1
+x   2  y  3  fin execution  195500   Debut execution    26300  id tache  3 id application  1
+x   3  y  3  fin execution  53800   Debut execution    26800  id tache  4 id application  1
+x   0  y  3  fin execution  193500   Debut execution    50800  id tache  5 id application  1
+x   5  y  3  fin execution  188500   Debut execution    134400  id tache  6 id application  1
+x   5  y  2  fin execution  187500   Debut execution    161500  id tache  7 id application  1
+x   1  y  6  fin execution  235600   Debut execution    0  id tache  0 id application  2
+x   1  y  5  fin execution  234400   Debut execution    3100  id tache  1 id application  2
+x   2  y  6  fin execution  234600   Debut execution    3200  id tache  2 id application  2
+x   2  y  5  fin execution  233400   Debut execution    26300  id tache  3 id application  2
+x   3  y  5  fin execution  232600   Debut execution    26800  id tache  4 id application  2
+x   0  y  4  fin execution  230400   Debut execution    52200  id tache  5 id application  2
+x   2  y  4  fin execution  230600   Debut execution    56500  id tache  6 id application  2
+x   5  y  4  fin execution  225400   Debut execution    135600  id tache  7 id application  2
+x   3  y  6  fin execution  227600   Debut execution    153600  id tache  8 id application  2
+x   6  y  0  fin execution  218300   Debut execution    188300  id tache  9 id application  2
+x   4  y  0  fin execution  218400   Debut execution    188400  id tache  10 id application  2
+x   4  y  5  fin execution  209200   Debut execution    181200  id tache  11 id application  2
+x   3  y  3  fin execution  224600   Debut execution    182600  id tache  12 id application  2
+x   4  y  1  fin execution  333600   Debut execution    0  id tache  0 id application  3
+x   5  y  1  fin execution  332600   Debut execution    3200  id tache  1 id application  3
+x   3  y  1  fin execution  181300   Debut execution    3300  id tache  2 id application  3
+x   5  y  0  fin execution  331600   Debut execution    26300  id tache  3 id application  3
+x   4  y  0  fin execution  53800   Debut execution    26800  id tache  4 id application  3
+x   3  y  0  fin execution  180300   Debut execution    26400  id tache  5 id application  3
+x   0  y  1  fin execution  325600   Debut execution    53100  id tache  6 id application  3
+x   3  y  7  fin execution  171300   Debut execution    54000  id tache  7 id application  3
+x   3  y  1  fin execution  322600   Debut execution    182700  id tache  8 id application  3
+x   2  y  7  fin execution  143300   Debut execution    117300  id tache  9 id application  3
+x   4  y  6  fin execution  316600   Debut execution    232500  id tache  10 id application  3
+x   2  y  7  fin execution  313600   Debut execution    285600  id tache  11 id application  3
+x   4  y  4  fin execution  312500   Debut execution    0  id tache  0 id application  4
+x   4  y  3  fin execution  311500   Debut execution    3100  id tache  1 id application  4
+x   5  y  4  fin execution  132000   Debut execution    3200  id tache  2 id application  4
+x   4  y  2  fin execution  310500   Debut execution    26200  id tache  3 id application  4
+x   5  y  5  fin execution  52600   Debut execution    26600  id tache  4 id application  4
+x   5  y  3  fin execution  131000   Debut execution    26300  id tache  5 id application  4
+x   3  y  4  fin execution  307500   Debut execution    52600  id tache  6 id application  4
+x   4  y  7  fin execution  125000   Debut execution    54600  id tache  7 id application  4
+x   3  y  7  fin execution  304500   Debut execution    174900  id tache  8 id application  4
+x   4  y  5  fin execution  123000   Debut execution    96000  id tache  9 id application  4
+x   0  y  7  fin execution  301500   Debut execution    225200  id tache  10 id application  4
+x   0  y  5  fin execution  299500   Debut execution    271500  id tache  11 id application  4
+x   4  y  6  fin execution  227400   Debut execution    0  id tache  0 id application  5
+x   5  y  6  fin execution  225400   Debut execution    3200  id tache  1 id application  5
+x   3  y  6  fin execution  77900   Debut execution    3300  id tache  2 id application  5
+x   5  y  7  fin execution  224400   Debut execution    26600  id tache  3 id application  5
+x   2  y  7  fin execution  73900   Debut execution    27900  id tache  4 id application  5
+x   0  y  7  fin execution  219400   Debut execution    53200  id tache  5 id application  5
+x   4  y  7  fin execution  215400   Debut execution    126900  id tache  6 id application  5
+x   5  y  5  fin execution  212400   Debut execution    184400  id tache  7 id application  5
+x   6  y  1  fin execution  305300   Debut execution    0  id tache  0 id application  6
+x   7  y  1  fin execution  304300   Debut execution    3200  id tache  1 id application  6
+x   6  y  2  fin execution  279300   Debut execution    3400  id tache  2 id application  6
+x   7  y  2  fin execution  303300   Debut execution    26500  id tache  3 id application  6
+x   3  y  2  fin execution  276300   Debut execution    28900  id tache  4 id application  6
+x   2  y  2  fin execution  298300   Debut execution    120600  id tache  5 id application  6
+x   2  y  1  fin execution  274300   Debut execution    119100  id tache  6 id application  6
+x   0  y  3  fin execution  295300   Debut execution    196500  id tache  7 id application  6
+x   2  y  3  fin execution  272300   Debut execution    197400  id tache  8 id application  6
+x   0  y  5  fin execution  264800   Debut execution    237800  id tache  9 id application  6
+x   3  y  3  fin execution  292300   Debut execution    238300  id tache  10 id application  6
+x   1  y  2  fin execution  249100   Debut execution    222100  id tache  11 id application  6
+x   5  y  2  fin execution  268300   Debut execution    225300  id tache  12 id application  6
+x   6  y  4  fin execution  322300   Debut execution    0  id tache  0 id application  7
+x   6  y  3  fin execution  321300   Debut execution    3100  id tache  1 id application  7
+x   7  y  4  fin execution  212800   Debut execution    3200  id tache  2 id application  7
+x   7  y  3  fin execution  320300   Debut execution    26300  id tache  3 id application  7
+x   7  y  0  fin execution  73600   Debut execution    28600  id tache  4 id application  7
+x   7  y  7  fin execution  209800   Debut execution    28500  id tache  5 id application  7
+x   0  y  2  fin execution  312300   Debut execution    54000  id tache  6 id application  7
+x   1  y  7  fin execution  199800   Debut execution    114600  id tache  7 id application  7
+x   5  y  3  fin execution  306300   Debut execution    192500  id tache  8 id application  7
+x   2  y  7  fin execution  198800   Debut execution    172800  id tache  9 id application  7
+x   5  y  4  fin execution  305300   Debut execution    254900  id tache  10 id application  7
+x   5  y  5  fin execution  304300   Debut execution    278300  id tache  11 id application  7
+x   6  y  6  fin execution  282700   Debut execution    0  id tache  0 id application  8
+x   6  y  5  fin execution  281700   Debut execution    3100  id tache  1 id application  8
+x   7  y  6  fin execution  156300   Debut execution    3200  id tache  2 id application  8
+x   7  y  5  fin execution  280700   Debut execution    26300  id tache  3 id application  8
+x   4  y  5  fin execution  89500   Debut execution    28500  id tache  4 id application  8
+x   6  y  7  fin execution  154300   Debut execution    27200  id tache  5 id application  8
+x   0  y  6  fin execution  271700   Debut execution    54200  id tache  6 id application  8
+x   3  y  6  fin execution  150300   Debut execution    80300  id tache  7 id application  8
+x   6  y  7  fin execution  262700   Debut execution    158900  id tache  8 id application  8
+x   3  y  3  fin execution  147300   Debut execution    119300  id tache  9 id application  8
+x   7  y  6  fin execution  260700   Debut execution    188400  id tache  10 id application  8
+x   4  y  5  fin execution  256700   Debut execution    214700  id tache  11 id application  8
+x   1  y  4  fin execution  364500   Debut execution    197500  id tache  0 id application  9
+x   1  y  3  fin execution  363500   Debut execution    200600  id tache  1 id application  9
+x   1  y  7  fin execution  268800   Debut execution    203600  id tache  2 id application  9
+x   7  y  4  fin execution  356500   Debut execution    229200  id tache  3 id application  9
+x   2  y  7  fin execution  255800   Debut execution    228800  id tache  4 id application  9
+x   7  y  6  fin execution  354500   Debut execution    275500  id tache  5 id application  9
+x   7  y  5  fin execution  353500   Debut execution    300600  id tache  6 id application  9
+x   5  y  5  fin execution  351500   Debut execution    324500  id tache  7 id application  9
+ TIME:	364500
+ TIME recherche :	159800
+ ENERGIE:	6774168
+ ENERGIE  recherche :	0
+
+
+
+*****************************************************************
+Resultat de la simulation 
+Algorithme de placement :  BN
+Stratégie de recherche :  GBHD
+Algorithme de routage :  XY
+*****************************************************************
+
+x   1  y  1  fin execution  234800   Debut execution    0  id tache  0 id application  0
+x   1  y  0  fin execution  233800   Debut execution    3200  id tache  1 id application  0
+x   2  y  1  fin execution  118350   Debut execution    3200  id tache  2 id application  0
+x   2  y  0  fin execution  232800   Debut execution    26350  id tache  3 id application  0
+x   1  y  2  fin execution  53950   Debut execution    26950  id tache  4 id application  0
+x   2  y  2  fin execution  117350   Debut execution    26400  id tache  5 id application  0
+x   0  y  0  fin execution  230800   Debut execution    49800  id tache  6 id application  0
+x   0  y  2  fin execution  115350   Debut execution    50200  id tache  7 id application  0
+x   2  y  1  fin execution  227800   Debut execution    118900  id tache  8 id application  0
+x   1  y  2  fin execution  101350   Debut execution    74350  id tache  9 id application  0
+x   2  y  2  fin execution  226800   Debut execution    176600  id tache  10 id application  0
+x   1  y  2  fin execution  225800   Debut execution    199800  id tache  11 id application  0
+x   1  y  4  fin execution  217000   Debut execution    0  id tache  0 id application  1
+x   1  y  3  fin execution  216000   Debut execution    3200  id tache  1 id application  1
+x   2  y  4  fin execution  72600   Debut execution    3200  id tache  2 id application  1
+x   2  y  3  fin execution  215000   Debut execution    26400  id tache  3 id application  1
+x   3  y  3  fin execution  53600   Debut execution    26600  id tache  4 id application  1
+x   3  y  4  fin execution  213000   Debut execution    50000  id tache  5 id application  1
+x   3  y  0  fin execution  209000   Debut execution    134850  id tache  6 id application  1
+x   4  y  0  fin execution  208000   Debut execution    182000  id tache  7 id application  1
+x   1  y  6  fin execution  246750   Debut execution    0  id tache  0 id application  2
+x   1  y  5  fin execution  219000   Debut execution    3200  id tache  1 id application  2
+x   2  y  6  fin execution  245750   Debut execution    3200  id tache  2 id application  2
+x   2  y  5  fin execution  218000   Debut execution    26400  id tache  3 id application  2
+x   3  y  5  fin execution  243750   Debut execution    26600  id tache  4 id application  2
+x   0  y  4  fin execution  215000   Debut execution    50950  id tache  5 id application  2
+x   0  y  6  fin execution  238750   Debut execution    52900  id tache  6 id application  2
+x   5  y  3  fin execution  209000   Debut execution    138200  id tache  7 id application  2
+x   7  y  7  fin execution  230750   Debut execution    156750  id tache  8 id application  2
+x   5  y  2  fin execution  205400   Debut execution    179400  id tache  9 id application  2
+x   3  y  3  fin execution  207000   Debut execution    180000  id tache  10 id application  2
+x   7  y  0  fin execution  221500   Debut execution    189500  id tache  11 id application  2
+x   6  y  0  fin execution  222750   Debut execution    189750  id tache  12 id application  2
+x   4  y  1  fin execution  275300   Debut execution    0  id tache  0 id application  3
+x   5  y  1  fin execution  274300   Debut execution    3200  id tache  1 id application  3
+x   3  y  1  fin execution  133850   Debut execution    3200  id tache  2 id application  3
+x   5  y  0  fin execution  273300   Debut execution    26400  id tache  3 id application  3
+x   4  y  0  fin execution  53550   Debut execution    26550  id tache  4 id application  3
+x   3  y  0  fin execution  132850   Debut execution    26400  id tache  5 id application  3
+x   0  y  1  fin execution  267300   Debut execution    51300  id tache  6 id application  3
+x   3  y  7  fin execution  125850   Debut execution    51700  id tache  7 id application  3
+x   3  y  1  fin execution  264300   Debut execution    134650  id tache  8 id application  3
+x   2  y  7  fin execution  124850   Debut execution    98850  id tache  9 id application  3
+x   4  y  7  fin execution  257300   Debut execution    179950  id tache  10 id application  3
+x   4  y  5  fin execution  255300   Debut execution    228300  id tache  11 id application  3
+x   4  y  4  fin execution  259500   Debut execution    0  id tache  0 id application  4
+x   4  y  3  fin execution  258500   Debut execution    3200  id tache  1 id application  4
+x   5  y  4  fin execution  137100   Debut execution    3200  id tache  2 id application  4
+x   4  y  2  fin execution  257500   Debut execution    26400  id tache  3 id application  4
+x   5  y  5  fin execution  52400   Debut execution    26400  id tache  4 id application  4
+x   5  y  3  fin execution  136100   Debut execution    26400  id tache  5 id application  4
+x   0  y  3  fin execution  252500   Debut execution    51850  id tache  6 id application  4
+x   2  y  4  fin execution  132100   Debut execution    74700  id tache  7 id application  4
+x   5  y  4  fin execution  246500   Debut execution    139200  id tache  8 id application  4
+x   3  y  3  fin execution  128100   Debut execution    101100  id tache  9 id application  4
+x   5  y  7  fin execution  243500   Debut execution    189150  id tache  10 id application  4
+x   5  y  5  fin execution  241500   Debut execution    214500  id tache  11 id application  4
+x   4  y  6  fin execution  189400   Debut execution    0  id tache  0 id application  5
+x   5  y  6  fin execution  188400   Debut execution    3200  id tache  1 id application  5
+x   3  y  6  fin execution  55600   Debut execution    3200  id tache  2 id application  5
+x   5  y  7  fin execution  187400   Debut execution    26400  id tache  3 id application  5
+x   4  y  5  fin execution  53600   Debut execution    26600  id tache  4 id application  5
+x   1  y  7  fin execution  182400   Debut execution    50850  id tache  5 id application  5
+x   2  y  2  fin execution  176400   Debut execution    119200  id tache  6 id application  5
+x   1  y  2  fin execution  175400   Debut execution    149400  id tache  7 id application  5
+x   6  y  1  fin execution  262300   Debut execution    0  id tache  0 id application  6
+x   7  y  1  fin execution  241000   Debut execution    3200  id tache  1 id application  6
+x   6  y  2  fin execution  261300   Debut execution    3200  id tache  2 id application  6
+x   7  y  2  fin execution  240000   Debut execution    26350  id tache  3 id application  6
+x   7  y  3  fin execution  259300   Debut execution    26750  id tache  4 id application  6
+x   3  y  2  fin execution  236000   Debut execution    50650  id tache  5 id application  6
+x   0  y  2  fin execution  250300   Debut execution    117800  id tache  6 id application  6
+x   3  y  6  fin execution  229000   Debut execution    151600  id tache  7 id application  6
+x   1  y  7  fin execution  244300   Debut execution    184500  id tache  8 id application  6
+x   4  y  5  fin execution  226000   Debut execution    181000  id tache  9 id application  6
+x   2  y  7  fin execution  208400   Debut execution    181400  id tache  10 id application  6
+x   2  y  7  fin execution  238650   Debut execution    212650  id tache  11 id application  6
+x   0  y  5  fin execution  241300   Debut execution    213300  id tache  12 id application  6
+x   6  y  4  fin execution  280200   Debut execution    0  id tache  0 id application  7
+x   6  y  3  fin execution  279200   Debut execution    3200  id tache  1 id application  7
+x   7  y  4  fin execution  157300   Debut execution    3200  id tache  2 id application  7
+x   7  y  5  fin execution  276200   Debut execution    27750  id tache  3 id application  7
+x   7  y  0  fin execution  77500   Debut execution    27500  id tache  4 id application  7
+x   7  y  7  fin execution  154300   Debut execution    27350  id tache  5 id application  7
+x   2  y  4  fin execution  270200   Debut execution    134200  id tache  6 id application  7
+x   3  y  6  fin execution  149300   Debut execution    56900  id tache  7 id application  7
+x   7  y  4  fin execution  265200   Debut execution    167850  id tache  8 id application  7
+x   4  y  5  fin execution  146300   Debut execution    119300  id tache  9 id application  7
+x   5  y  3  fin execution  262200   Debut execution    210000  id tache  10 id application  7
+x   5  y  2  fin execution  261200   Debut execution    235200  id tache  11 id application  7
+x   6  y  6  fin execution  290450   Debut execution    0  id tache  0 id application  8
+x   6  y  5  fin execution  289450   Debut execution    3200  id tache  1 id application  8
+x   7  y  6  fin execution  182150   Debut execution    3200  id tache  2 id application  8
+x   6  y  7  fin execution  287450   Debut execution    27150  id tache  3 id application  8
+x   2  y  7  fin execution  81200   Debut execution    28200  id tache  4 id application  8
+x   4  y  7  fin execution  177150   Debut execution    27500  id tache  5 id application  8
+x   0  y  7  fin execution  281450   Debut execution    53150  id tache  6 id application  8
+x   3  y  7  fin execution  176150   Debut execution    126000  id tache  7 id application  8
+x   3  y  7  fin execution  278450   Debut execution    176850  id tache  8 id application  8
+x   2  y  7  fin execution  175150   Debut execution    149150  id tache  9 id application  8
+x   3  y  0  fin execution  271450   Debut execution    211300  id tache  10 id application  8
+x   4  y  0  fin execution  270450   Debut execution    244450  id tache  11 id application  8
+x   4  y  6  fin execution  342500   Debut execution    189400  id tache  0 id application  9
+x   5  y  6  fin execution  341500   Debut execution    192600  id tache  1 id application  9
+x   7  y  6  fin execution  278550   Debut execution    193750  id tache  2 id application  9
+x   2  y  5  fin execution  337500   Debut execution    219900  id tache  3 id application  9
+x   7  y  0  fin execution  272550   Debut execution    239550  id tache  4 id application  9
+x   3  y  5  fin execution  336500   Debut execution    262100  id tache  5 id application  9
+x   3  y  4  fin execution  335500   Debut execution    285300  id tache  6 id application  9
+x   3  y  3  fin execution  334500   Debut execution    308500  id tache  7 id application  9
+ TIME:	342500
+ TIME recherche :	85250
+ ENERGIE:	5887373
+ ENERGIE  recherche :	0
+
+
+
