@@ -452,7 +452,6 @@
                 <id_succ id="12" data="100"/>
             </succ>
         </tache>
-        <tache>
         <id>11</id>
         <type>1</type>
         <taille_tache>300</taille_tache>
@@ -624,7 +623,6 @@
                 <id_succ id="12" data="100"/>
             </succ>
         </tache>
-        <tache>
         <id>11</id>
         <type>1</type>
         <taille_tache>300</taille_tache>

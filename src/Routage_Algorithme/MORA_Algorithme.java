@@ -41,7 +41,7 @@ public class MORA_Algorithme {
 
     }
 
-    public void start() throws InterruptedException {
+    public void start() {
 
         if (x_source < x_destination)//////////////////////// de haut vers le bas ///////
         {
@@ -125,7 +125,7 @@ public class MORA_Algorithme {
 
 
     ///////////
-    public void attendre(int x, int y, int x1, int y1) throws InterruptedException {
+    public void attendre(int x, int y, int x1, int y1) {
         int size_file = get_lien(x, y, x1, y1);
         // ajouter un evt , pour indiquer le debut d un routage et donc la fin de l attente !!
         this.temps_attente = (((size_file - donnee) / StaticParametre.DEBIT) * StaticParametre.Temps_envoie);
@@ -143,7 +143,7 @@ public class MORA_Algorithme {
 ///////////
 //////////////////////////
 
-    public void lancer_envoie(int x, int y, int x1, int y1, int M) throws InterruptedException {
+    public void lancer_envoie(int x, int y, int x1, int y1, int M) {
 
 
         int xx = x * 2;
@@ -189,7 +189,7 @@ public class MORA_Algorithme {
 
 
     /////
-    public void haut_vers_bas() throws InterruptedException {
+    public void haut_vers_bas() {
 
         if (y_source < y_destination)        ////// de gauche e droite //////////
         {
@@ -287,7 +287,7 @@ public class MORA_Algorithme {
 
 //////////////////////////////////
 
-    public void bas_vers_haut() throws InterruptedException {
+    public void bas_vers_haut() {
 
         if (y_source < y_destination)        ////// de gauche e droite //////////
         {

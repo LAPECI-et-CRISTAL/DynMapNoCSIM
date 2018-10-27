@@ -171,7 +171,7 @@ public class Tree {
         if (T.getNumberSons() != 0) {
             //	System.out.println("un appel");
             int l = larg / (T.getNumberSons());
-            int pos = start + (int) (l / 2);
+            int pos = start + (l / 2);
             for (int i = 0; i < T.getNumberSons(); i++) {
                 triplet posi = new triplet();
                 posi.t[0] = T.getSon(i).getid();

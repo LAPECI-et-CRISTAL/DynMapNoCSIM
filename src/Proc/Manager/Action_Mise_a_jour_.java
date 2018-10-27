@@ -264,9 +264,8 @@ public class Action_Mise_a_jour_ {
      * Lance la tache sur le processeur afin de l executer
      *
      * @param t
-     * @throws InterruptedException
      */
-    public void Launch(Tache t) throws InterruptedException {
+    public void Launch(Tache t) {
         ProcessorElement processeur = Create_NOC.getNOC()[t.x][t.y];
 
 

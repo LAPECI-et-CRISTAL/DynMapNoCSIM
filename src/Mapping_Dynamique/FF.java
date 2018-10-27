@@ -32,7 +32,7 @@ public class FF {
 ///////////////////////////////////////
 
 
-    public void lancer(Tache t, int x, int y) throws InterruptedException {
+    public void lancer(Tache t, int x, int y) {
 
 
         t.x = x;
@@ -99,7 +99,7 @@ public class FF {
 
 ///////////////////////
 
-    public void recherche_proc_libre(Tache tachePlacer, int Id_proc) throws InterruptedException {
+    public void recherche_proc_libre(Tache tachePlacer, int Id_proc) {
 
 
         //System.out.println("x   "+x+"   y  "+y+"  Id_proc  "+Id_proc);

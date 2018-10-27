@@ -135,7 +135,7 @@ public class BN_GBHD_Multi {
 
 
     ///////////////////////
-    public void recherche_gauche(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_gauche(Tache tachePlacer, int x, int y) {
 
 
         if (y - 1 >= 0 && y <= StaticParametre.Limit_NOC_y - 1 && x >= 0 && x <= StaticParametre.Limit_NOC_x - 1) {
@@ -159,7 +159,7 @@ public class BN_GBHD_Multi {
 /////////////////////////////////////	
 
 
-    public void recherche_bas(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_bas(Tache tachePlacer, int x, int y) {
 
 
         if (x + 1 <= StaticParametre.Limit_NOC_x - 1 && x >= 0 && y >= 0 && y <= StaticParametre.Limit_NOC_y - 1) {
@@ -186,7 +186,7 @@ public class BN_GBHD_Multi {
 //////////////////////////////////////////	
 
 
-    public void recherche_haut(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_haut(Tache tachePlacer, int x, int y) {
 
 
         if (x - 1 >= 0 && x <= StaticParametre.Limit_NOC_x - 1 && y >= 0 && y <= StaticParametre.Limit_NOC_y - 1) {
@@ -218,7 +218,7 @@ public class BN_GBHD_Multi {
 //////////////////////////////////
 
 
-    public void recherche_droite(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_droite(Tache tachePlacer, int x, int y) {
 
 
         if (y + 1 <= StaticParametre.Limit_NOC_y - 1 && y >= 0 && x >= 0 && x <= StaticParametre.Limit_NOC_x - 1) {
@@ -243,7 +243,7 @@ public class BN_GBHD_Multi {
 
 ////////////////////////////////////////////
 
-    public void refaire(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void refaire(Tache tachePlacer, int x, int y) {
         // recherche a gauche
         recherche_gauche(tachePlacer, x, y);
         //recherche en bas
@@ -279,7 +279,7 @@ public class BN_GBHD_Multi {
 //////////////////////////
 
 
-    public void lancer(Tache t, int K, int x, int y) throws InterruptedException {
+    public void lancer(Tache t, int K, int x, int y) {
 
         int x1 = -1, y1 = -1;
 

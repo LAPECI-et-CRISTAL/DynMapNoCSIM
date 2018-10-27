@@ -39,7 +39,7 @@ public class XY_Algorithme {
 
     }
 
-    public void start() throws InterruptedException {
+    public void start() {
 
         int saut_x = Math.abs(this.x_source - this.x_destination);
 
@@ -162,7 +162,7 @@ public class XY_Algorithme {
 
 ///////////////////////////////
 
-    public void attendre(int x, int y, int x1, int y1) throws InterruptedException {
+    public void attendre(int x, int y, int x1, int y1) {
         int size_file = verifier_lien(x, y, x1, y1);
         // ajouter un evt , pour indiquer le debut d un routage et donc la fin de l attente !!
         this.temps_attente = (((size_file - donnee) / StaticParametre.DEBIT) * StaticParametre.Temps_envoie);
@@ -179,7 +179,7 @@ public class XY_Algorithme {
     }
 //////////////////////////    
 
-    public void lancer_envoie(int x, int y, int x1, int y1, int M) throws InterruptedException {
+    public void lancer_envoie(int x, int y, int x1, int y1, int M) {
         //	Create_NOC.platforme.k[x][y].getWidth()/2
         int xx = x * 2;
         int yy = y * 2;

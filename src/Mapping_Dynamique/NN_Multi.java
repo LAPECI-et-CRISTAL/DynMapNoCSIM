@@ -95,7 +95,7 @@ public class NN_Multi {
     }
 
     //////////////////////////////////////////
-    public void refaire(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void refaire(Tache tachePlacer, int x, int y) {
         // recherche a gauche
 
         recherche_gauche(tachePlacer, x, y);
@@ -119,7 +119,7 @@ public class NN_Multi {
 ///////////////////////////////////////
 
 
-    public void lancer(Tache t, int x, int y) throws InterruptedException {
+    public void lancer(Tache t, int x, int y) {
 
 
         t.x = x;
@@ -147,7 +147,7 @@ public class NN_Multi {
 
 //////////////////////////////////////////////////////Spiral ////////////////////////////////////////////
 
-    public void start_Spiral(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void start_Spiral(Tache tachePlacer, int x, int y) {
         this.x = x;
         this.y = y;
 
@@ -252,7 +252,7 @@ public class NN_Multi {
 
 
     /////////////////////////// recherche mm proc
-    public void recherche_meme_proc(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_meme_proc(Tache tachePlacer, int x, int y) {
         temps_recherche += 10;
 
 
@@ -275,7 +275,7 @@ public class NN_Multi {
 ///////////////////////
 
 
-    public void recherche_gauche(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_gauche(Tache tachePlacer, int x, int y) {
 
         if (y - 1 >= 0 && y <= StaticParametre.Limit_NOC_y - 1 && x >= 0 && x <= StaticParametre.Limit_NOC_x - 1) {
             temps_recherche = temps_recherche + 100;
@@ -299,7 +299,7 @@ public class NN_Multi {
 
 /////////////////////////////////////	
 
-    public void recherche_bas(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_bas(Tache tachePlacer, int x, int y) {
 
 
         if (x + 1 <= StaticParametre.Limit_NOC_x - 1 && x >= 0 && y >= 0 && y <= StaticParametre.Limit_NOC_y - 1) {
@@ -327,7 +327,7 @@ public class NN_Multi {
 //////////////////////////////////////////
 
 
-    public void recherche_haut(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_haut(Tache tachePlacer, int x, int y) {
 
 
         if (x - 1 >= 0 && x <= StaticParametre.Limit_NOC_x - 1 && y >= 0 && y <= StaticParametre.Limit_NOC_y - 1) {
@@ -357,7 +357,7 @@ public class NN_Multi {
 //////////////////////////////////
 
 
-    public void recherche_droite(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_droite(Tache tachePlacer, int x, int y) {
 
 
         if (y + 1 <= StaticParametre.Limit_NOC_y - 1 && y >= 0 && x >= 0 && x <= StaticParametre.Limit_NOC_x - 1) {
@@ -379,7 +379,7 @@ public class NN_Multi {
 
 
     ////////////////////////// verifier le proceseur haut_gauche
-    public void recherche_haut_gauche(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_haut_gauche(Tache tachePlacer, int x, int y) {
 
         if (y - 1 >= 0 && x - 1 >= 0 && y <= StaticParametre.Limit_NOC_y - 1 && x <= StaticParametre.Limit_NOC_x - 1) {
             temps_recherche = temps_recherche + 100;
@@ -402,7 +402,7 @@ public class NN_Multi {
 ///////////////////////////// rechercher le processeur haut_droite 
 
 
-    public void recherche_haut_droite(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_haut_droite(Tache tachePlacer, int x, int y) {
 
 
         if (x - 1 >= 0 && y + 1 <= StaticParametre.Limit_NOC_y - 1 && x <= StaticParametre.Limit_NOC_x - 1 && y >= 0) {
@@ -426,7 +426,7 @@ public class NN_Multi {
 
 ////////////////////////////// rechercher le processeur bas_gauche 
 
-    public void recherche_bas_gauche(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_bas_gauche(Tache tachePlacer, int x, int y) {
 
 
         if (x + 1 <= StaticParametre.Limit_NOC_x - 1 && y - 1 >= 0 && x >= 0 && y <= StaticParametre.Limit_NOC_y - 1) {
@@ -450,7 +450,7 @@ public class NN_Multi {
 
 //////////////////////////////////// recherche processeur bas_droite
 
-    public void recherche_bas_droite(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void recherche_bas_droite(Tache tachePlacer, int x, int y) {
 
 
         if (x + 1 <= StaticParametre.Limit_NOC_x - 1 && y + 1 <= StaticParametre.Limit_NOC_y - 1 && x >= 0 && y >= 0) {
@@ -474,7 +474,7 @@ public class NN_Multi {
 ///////////////////////////////////// 
 
 
-    public void refaire_Spiral(Tache tachePlacer, int x, int y) throws InterruptedException {
+    public void refaire_Spiral(Tache tachePlacer, int x, int y) {
 
         recherche_gauche(tachePlacer, x, y);
         if (place == false)

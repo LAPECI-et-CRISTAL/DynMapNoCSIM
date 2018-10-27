@@ -27,9 +27,7 @@ public class StaticParametre {
      * definir les listes d'application
      */
     public static LinkedList<Application> listApplication = new LinkedList<Application>();
-    ;
     public static LinkedList<Application> applicationAttente = new LinkedList<Application>();
-    ;
     public static Application[] application_en_cours/*=new Application[20]*/;
     /**
      * la liste des cluster

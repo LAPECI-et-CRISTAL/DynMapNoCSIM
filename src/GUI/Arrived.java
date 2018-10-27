@@ -7,7 +7,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.IOException;
 
 public class Arrived extends JFrame implements ActionListener {
 
@@ -46,15 +45,7 @@ public class Arrived extends JFrame implements ActionListener {
         this.dispose();
         MAIN_Frame.pe.setSelectedIndex(3);
         StaticParametre.between_arrived = Integer.parseInt(time.getText().trim());
-        try {
-            MAIN_Frame.pe.setComponentAt(3, new Simulator());
-        } catch (IOException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-        } catch (InterruptedException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-        }
+        MAIN_Frame.pe.setComponentAt(3, new Simulator());
 
 
     }

@@ -12,7 +12,7 @@ public class OutputFileReader {
 
     //static FileWriter fw=Simulator.fw;
 
-    public OutputFileReader() throws IOException {
+    public OutputFileReader() {
 
     }
 

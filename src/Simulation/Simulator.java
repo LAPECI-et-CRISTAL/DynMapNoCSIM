@@ -48,7 +48,7 @@ public class Simulator extends JPanel implements ActionListener {
     public JPanel westPanel = new JPanel();
     JSlider js;
 
-    public Simulator() throws IOException, InterruptedException {
+    public Simulator() {
 
         JPanel pan = new JPanel();
         pan.setLayout(new FlowLayout());
@@ -301,7 +301,7 @@ public class Simulator extends JPanel implements ActionListener {
         {
 
 
-            Tnow = this.T_next_event.get(0);
+            Tnow = T_next_event.get(0);
             // Affichage du temps actuel
             System.out.println("Tnow   =  " + Tnow);
 

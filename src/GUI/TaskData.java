@@ -164,7 +164,7 @@ public class TaskData extends javax.swing.JFrame implements ActionListener {
             }
         });
         jComboBox1.addVetoableChangeListener(new java.beans.VetoableChangeListener() {
-            public void vetoableChange(java.beans.PropertyChangeEvent evt) throws java.beans.PropertyVetoException {
+            public void vetoableChange(java.beans.PropertyChangeEvent evt) {
                 jComboBox1VetoableChange(evt);
             }
         });
@@ -290,7 +290,7 @@ public class TaskData extends javax.swing.JFrame implements ActionListener {
         // TODO add your handling code here:
     }//GEN-LAST:event_jComboBox1PropertyChange
 
-    private void jComboBox1VetoableChange(java.beans.PropertyChangeEvent evt) throws java.beans.PropertyVetoException {//GEN-FIRST:event_jComboBox1VetoableChange
+    private void jComboBox1VetoableChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_jComboBox1VetoableChange
 
         // TODO add your handling code here:
     }//GEN-LAST:event_jComboBox1VetoableChange

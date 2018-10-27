@@ -30,7 +30,7 @@ public class FF_MULTI {
 ///////////////////////////////////////
 
 
-    public void lancer(Tache t, int x, int y) throws InterruptedException {
+    public void lancer(Tache t, int x, int y) {
 
 
         t.x = x;
@@ -93,7 +93,7 @@ public class FF_MULTI {
 
 ///////////////////////
 
-    public void recherche_proc_libre(Tache tachePlacer, int Id_proc) throws InterruptedException {
+    public void recherche_proc_libre(Tache tachePlacer, int Id_proc) {
 
 
         int x = StaticParametre.listProcesseur.get(Id_proc).x;

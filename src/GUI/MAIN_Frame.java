@@ -34,7 +34,7 @@ public class MAIN_Frame {
         fra.add(pe);
         fra.setSize(1200, 720);
         fra.setVisible(true);
-        fra.setDefaultCloseOperation(fra.EXIT_ON_CLOSE);
+        fra.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     }
 

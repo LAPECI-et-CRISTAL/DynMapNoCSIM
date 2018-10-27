@@ -45,7 +45,7 @@ public class Send {
     }
 
     /*********************************************/ // Send packet
-    public void run() throws InterruptedException {
+    public void run() {
 
         if (StaticParametre.ALGORITHME_ROUTAGE.equals("XY")) {
             XY_Algorithme rout = new XY_Algorithme(p);

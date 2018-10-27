@@ -160,7 +160,7 @@ public class ProcessorElement {
     }
 
 
-    public void ajoutTache(Tache tache) throws InterruptedException {
+    public void ajoutTache(Tache tache) {
 
         switch (this.type) {    //determiner la frequence et l energie selon le type
             case 0: {
@@ -281,10 +281,7 @@ public class ProcessorElement {
 
         }
 
-        if (n == 0)
-            return false;
-        else
-            return true;
+        return n != 0;
         //return n;
     }
 

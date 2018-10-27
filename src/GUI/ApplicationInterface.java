@@ -98,9 +98,9 @@ public class ApplicationInterface extends JPanel implements ActionListener {
         FileWriter fw = new FileWriter(file + ".XML");
         fw.write("<?xml version=" + "1.0" + " encoding=" + "iso-8859-1" + " ?>" + "\r\n");
         fw.write("<list_applicatio>");
-        for (int i = 0; i < this.task.size(); i++) {
+        for (int i = 0; i < task.size(); i++) {
             System.out.println(" id  " + task.get(i).id);
-            for (int j = 0; j < this.task.get(i).Type.size(); j++) {
+            for (int j = 0; j < task.get(i).Type.size(); j++) {
                 System.out.println(" type  " + task.get(i).Type.get(j) + " cyle  " + task.get(i).Cycles.get(j) + " taille  " + task.get(i).Taille.get(j));
             }
         }

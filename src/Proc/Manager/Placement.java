@@ -162,7 +162,7 @@ public class Placement {
         Create_NOC.platforme.k[tacheInit.x][tacheInit.y].setBackground(Color.cyan);
         Thread.sleep(Simulator.speed);
         Create_NOC.platforme.k[tacheInit.x][tacheInit.y].setBackground(Color.red);
-        ProcessorElement processeurInit = (ProcessorElement) Create_NOC.getNOC()[tacheInit.x][tacheInit.y];
+        ProcessorElement processeurInit = Create_NOC.getNOC()[tacheInit.x][tacheInit.y];
         // temps debut execution de la tache initiale=TNOW
         tacheInit.debut_execution = Simulator.Tnow;
 
