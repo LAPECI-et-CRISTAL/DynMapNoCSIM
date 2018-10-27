@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/Users/Nabil/workspace/Mapping_Simulator/jdom-1.1.3.jar" />
+    <libelement value="file://C:/Users/Nabil/workspace/Mapping_Simulator/jdom-1.1.3-javadoc.jar" />
+    <libelement value="file://C:/Users/Nabil/workspace/Mapping_Simulator/jdom-1.1.3-sources.jar" />
+    <libelement value="file://C:/Users/Nabil/workspace/Mapping_Simulator/jfxrt.jar" />
+    <libelement value="file://C:/Users/Nabil/workspace/Mapping_Simulator/jgraph.jar" />
+    <libelement value="file://C:/Users/Nabil/soutenance/Simulator_vers_soutenance/jcommon-1.0.13.jar" />
+    <libelement value="file://C:/Users/Nabil/soutenance/Simulator_vers_soutenance/jfreechart-1.0.10.jar" />
+    <libelement value="file://C:/Users/Nabil/Desktop/Documents/NetBeansProjects/Soutenance/flanagan.jar" />
+    <conelement value="com.soyatec.uml.CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="flanagan" level="project" />
+    <orderEntry type="library" name="jfreechart-1.0.13" level="project" />
+    <orderEntry type="library" name="jgraph" level="project" />
+    <orderEntry type="library" name="jfxrt" level="project" />
+    <orderEntry type="library" name="jdom-1.1.3" level="project" />
+  </component>
+</module>

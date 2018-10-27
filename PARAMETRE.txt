@@ -1,8 +1,8 @@
 Nombre_Application 10
 Type_de_plateforme MONO
-ALGO_PLACEMENT NN . 
+ALGO_PLACEMENT . 
 Strategie_De_Recherche GBHD .
-ALGO_ROUTAGE MORA .
+ALGO_ROUTAGE .
 DEBIT 5
 Temps_Envoi 1000
 Energie_Consommee_Envoi 20

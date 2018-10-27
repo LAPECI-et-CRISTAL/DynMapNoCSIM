@@ -1,7 +1,7 @@
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  FF
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  MORA
 *****************************************************************
 
@@ -125,7 +125,7 @@ x   0  y  5  fin execution  634900   Debut execution    604900  id tache  7 id a
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  NN
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  MORA
 *****************************************************************
 
@@ -249,7 +249,7 @@ x   5  y  5  fin execution  124718   Debut execution    98718  id tache  7 id ap
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  BN
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  MORA
 *****************************************************************
 
@@ -373,7 +373,7 @@ x   5  y  5  fin execution  124468   Debut execution    98468  id tache  7 id ap
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  FF
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  XY
 *****************************************************************
 
@@ -497,7 +497,7 @@ x   1  y  2  fin execution  575800   Debut execution    548800  id tache  7 id a
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  NN
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  XY
 *****************************************************************
 
@@ -621,7 +621,7 @@ x   5  y  5  fin execution  124718   Debut execution    98718  id tache  7 id ap
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  BN
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  XY
 *****************************************************************
 

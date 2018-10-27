@@ -1,7 +1,7 @@
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  FF
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  MORA
 *****************************************************************
 
@@ -156,7 +156,7 @@ etat du proc true   son type  1  x   7    y   7 File memoire   900
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  NN
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  MORA
 *****************************************************************
 
@@ -311,7 +311,7 @@ etat du proc true   son type  1  x   7    y   7 File memoire   900
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  BN
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  MORA
 *****************************************************************
 
@@ -466,7 +466,7 @@ etat du proc true   son type  1  x   7    y   7 File memoire   900
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  FF
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  XY
 *****************************************************************
 
@@ -621,7 +621,7 @@ etat du proc true   son type  1  x   7    y   7 File memoire   900
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  NN
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  XY
 *****************************************************************
 
@@ -776,7 +776,7 @@ etat du proc true   son type  1  x   7    y   7 File memoire   900
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  BN
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  XY
 *****************************************************************
 

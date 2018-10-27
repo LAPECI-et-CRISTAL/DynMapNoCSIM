@@ -1,5 +1,5 @@
 package GUI;
 
 public class triplet {
-int t[]=new int[3];
+    int t[] = new int[3];
 }

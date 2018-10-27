@@ -1,7 +1,7 @@
 *****************************************************************
 Resultat de la simulation 
 Algorithme de placement :  NN
-Stratégie de recherche :  GBHD
+Strategie de recherche :  GBHD
 Algorithme de routage :  XY
 *****************************************************************
 

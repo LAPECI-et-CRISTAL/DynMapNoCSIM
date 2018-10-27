@@ -1,3488 +1,3547 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <list_applicatio>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
 
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
+                <taille_par_type Type="1" Taille="300"/>
 
-	</application>
-	
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
 
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
+        <tache>
+            <id>1</id>
+            <Type_Taille>
 
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
 
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
 
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
 
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
 
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
 
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
 
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
+                <taille_par_type Type="1" Taille="1200"/>
 
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="2"  Taille="450" />	
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	<application>
-		<tache>
-			<id>0</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="300" />
-					
-			</Type_Taille>
-			<succ>
-				<id_succ id="1" data="500" />
-				<id_succ id="2" data="1000" />
-				<id_succ id="3" data="3000" />
-				<id_succ id="4" data="2500" />
-				<id_succ id="5" data="1900" />
-				<id_succ id="6" data="500" />
-			</succ>
-		</tache>
-
-		<tache>
-			<id>1</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>2</id>
-			<Type_Taille>
-			<taille_par_type Type="1"  Taille="1500" />					
-			</Type_Taille>
-			<succ>
-			<id_succ id="7" data="1400" />
-				<id_succ id="8" data="1030" />
-				<id_succ id="9" data="1020" />
-				<id_succ id="10" data="1500" />
-				<id_succ id="11" data="1200" />
-				<id_succ id="12" data="1600" />
-			</succ>
-		</tache>
-		<tache>
-			<id>3</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>4</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>5</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1200" />
-								
-			</Type_Taille>	<succ>
-				<id_succ id="13" data="1400" />
-				<id_succ id="14" data="4400" />
-			</succ>
-		</tache>
-		<tache>
-			<id>6</id>
-			<Type_Taille>
-						
-			
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>7</id>
-			<Type_Taille>
-					
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>8</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-								
-			</Type_Taille>
-			<succ>
-				
-			</succ>
-		</tache>
-		<tache>
-			<id>9</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1800" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>10</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="600" />
-			<taille_par_type Type="4"  Taille="250" />
-								
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>11</id>
-			<Type_Taille>
-			
-			<taille_par_type Type="1"  Taille="1000" />
-			<taille_par_type Type="2"  Taille="500" />
-								
-			</Type_Taille><succ>
-			</succ>
-		</tache>
-			<tache>
-			<id>12</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="3"  Taille="750" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>13</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />
-			<taille_par_type Type="3"  Taille="750" />
-			<taille_par_type Type="4"  Taille="400" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-		<tache>
-			<id>14</id>
-			<Type_Taille>
-						
-			<taille_par_type Type="2"  Taille="800" />					
-			
-			</Type_Taille>
-			<succ>
-			</succ>
-		</tache>
-
-	</application>
-	
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
 
 
-	</list_applicatio>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="450"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+    <application>
+        <tache>
+            <id>0</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="300"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="1" data="500"/>
+                <id_succ id="2" data="1000"/>
+                <id_succ id="3" data="3000"/>
+                <id_succ id="4" data="2500"/>
+                <id_succ id="5" data="1900"/>
+                <id_succ id="6" data="500"/>
+            </succ>
+        </tache>
+
+        <tache>
+            <id>1</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>2</id>
+            <Type_Taille>
+                <taille_par_type Type="1" Taille="1500"/>
+            </Type_Taille>
+            <succ>
+                <id_succ id="7" data="1400"/>
+                <id_succ id="8" data="1030"/>
+                <id_succ id="9" data="1020"/>
+                <id_succ id="10" data="1500"/>
+                <id_succ id="11" data="1200"/>
+                <id_succ id="12" data="1600"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>3</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>4</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>5</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1200"/>
+
+            </Type_Taille>
+            <succ>
+                <id_succ id="13" data="1400"/>
+                <id_succ id="14" data="4400"/>
+            </succ>
+        </tache>
+        <tache>
+            <id>6</id>
+            <Type_Taille>
+
+
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>7</id>
+            <Type_Taille>
+
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>8</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+
+            </Type_Taille>
+            <succ>
+
+            </succ>
+        </tache>
+        <tache>
+            <id>9</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>10</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="600"/>
+                <taille_par_type Type="4" Taille="250"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>11</id>
+            <Type_Taille>
+
+                <taille_par_type Type="1" Taille="1000"/>
+                <taille_par_type Type="2" Taille="500"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>12</id>
+            <Type_Taille>
+
+                <taille_par_type Type="3" Taille="750"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>13</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+                <taille_par_type Type="3" Taille="750"/>
+                <taille_par_type Type="4" Taille="400"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+        <tache>
+            <id>14</id>
+            <Type_Taille>
+
+                <taille_par_type Type="2" Taille="800"/>
+
+            </Type_Taille>
+            <succ>
+            </succ>
+        </tache>
+
+    </application>
+
+
+</list_applicatio>
