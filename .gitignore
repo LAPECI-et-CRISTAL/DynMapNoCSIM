@@ -1,8 +1,5 @@
-#   Java    #
-.idea
-.git/
-.settings/
 .project
 .umlproject
 .euml2
 .classpath
+.settings/
